@@ -1,0 +1,99 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>Players</ion-title>
+    <ion-buttons end>
+      <button ion-button icon-only (click)="global.presentPopover($event)">
+        <ion-icon name="contact" isActive="true"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+  
+    <ion-grid class="button-group">
+      <ion-row>
+        <ion-col>
+          <button ion-button icon-start block color="primary" [outline]="this.segment != 'nhl'" (click)="this.onSegmentChange('nhl');">
+            <ion-icon name="icon-ci-hockey"></ion-icon>
+            NHL
+          </button>
+        </ion-col>
+        <ion-col>
+          <button ion-button icon-start block [outline]="this.segment != 'nba'" (click)="this.onSegmentChange('nba');">
+            <ion-icon name='basketball' is-active="false"></ion-icon>
+            NBA
+          </button>
+        </ion-col>
+        <ion-col>
+            <button ion-button icon-start block [outline]="this.segment != 'mlb'" (click)="this.onSegmentChange('mlb');">
+              <ion-icon name='baseball' is-active="false"></ion-icon>
+              MLB
+            </button>
+          </ion-col>
+      </ion-row>
+    </ion-grid>
+  <!-- searchbar -->
+  <ion-toolbar no-border-top>
+    <ion-searchbar color="primary" [(ngModel)]="queryText" (ionInput)="updatePlayers()" placeholder="Search">
+    </ion-searchbar>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="outer-content">
+  <!--
+    virtualScroll would not display list until resized so removed it
+    [virtualScroll]="players" *virtualItem="let player" approxItemHeight="457px" 
+    see https://stackoverflow.com/questions/43738085/ionic-2-virtual-scrolling-not-working-as-expected
+    -->
+  <ion-list>
+    <ion-grid>
+      <ion-row align-items-stretch>
+        <ion-col align-self-stretch align-self-center>
+          <ion-card color="light" *ngFor="let player of players" class="player-card">
+            <ion-card-header>
+              <button color="dark" style="padding: 0 !important; " ion-item detail-none>
+                <ion-avatar item-start>
+                  <img [src]="player.picture"/>
+                </ion-avatar>
+                <ion-label style="font-weight: bolder;">
+                   {{player.name}}
+                </ion-label>
+                
+              </button>
+            </ion-card-header>
+
+            <ion-card-content class="outer-content" >
+              <ion-list >
+                <ion-item color="light">
+                  <ion-avatar item-start>
+                    <img [src]="player.logo" width="128" height="128" />
+                  </ion-avatar>
+                  <ion-label>
+                    <h2>{{player.team}}</h2>
+                  </ion-label>
+                </ion-item>
+                <ion-item color="light">
+                  <ion-label>
+                    <h2>&nbsp;&nbsp;<ion-icon name="body"></ion-icon>
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Position: {{player.position}}</h2>
+                  </ion-label>
+              </ion-item>
+              <ion-item color="light">
+                  <!-- Searching Yahoo news instead of en.wikipedia.org/wiki/ -->
+                  <button style="padding: 0;" ion-button clear small color="primary" icon-start (click)="global.openLink('https://ca.search.yahoo.com/yhs/search?p=' + player.name)">
+                      &nbsp;&nbsp;<ion-icon name="person"></ion-icon>
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;News
+                    </button>
+              </ion-item>
+                <ion-item color="light">
+                    <button style="padding: 0;" ion-button clear small color="primary" icon-start (click)="global.openLink('https://twitter.com/search?q='+ player.name)">
+                        &nbsp;&nbsp;<ion-icon name="logo-twitter"></ion-icon>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tweets
+                      </button>
+                </ion-item>
+              </ion-list>
+            </ion-card-content>
+          </ion-card>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </ion-list>
+</ion-content>

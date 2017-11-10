@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>Profile</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card *ngIf="user.name">
+    <img src="{{user.picture}}" width="128" height="128" />
+    <ion-card-content>
+      <h2 class="card-title">{{user.name}}</h2>
+    </ion-card-content>
+    <ion-list>
+      <ion-item>
+        <ion-icon item-left name="ion-email"></ion-icon>
+        <h3>Email</h3>
+        <ion-note item-right item-right>{{user.email}}</ion-note>
+      </ion-item>
+    </ion-list>
+  </ion-card>
+</ion-content>
