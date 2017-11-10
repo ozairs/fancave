@@ -33,5 +33,5 @@ client/megafanz/README.node_modules
 client/megafanz/tsconfig.json
 client/megafanz/tslint.json
 client/README.md
-client/megafanz/src/providers/global-service/global-params.deveopment.ts
+client/megafanz/src/providers/global-service/global-params.development.ts
 server/datasources.development.json
