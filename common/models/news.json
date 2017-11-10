@@ -1,0 +1,44 @@
+{
+  "name": "News",
+  "plural": "news",
+  "base": "Model",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {},
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {
+    "getNews": {
+      "accepts": [
+        {
+          "arg": "league",
+          "type": "string",
+          "required": false,
+          "description": "",
+          "http": {
+            "source": "query"
+          }
+        }
+      ],
+      "returns": [
+        {
+          "arg": "news",
+          "type": "object",
+          "root": true,
+          "description": ""
+        }
+      ],
+      "description": "",
+      "http": [
+        {
+          "path": "/feed",
+          "verb": "get"
+        }
+      ],
+      "isStatic": true
+    }
+  }
+}

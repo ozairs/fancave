@@ -1,0 +1,129 @@
+{
+  "name": "Player",
+  "plural": "player",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": false,
+      "updateResource": {
+        "id": "common.Player.name",
+        "modelId": "common.Player",
+        "facetName": "common",
+        "name": "name",
+        "type": "string",
+        "required": false
+      },
+      "$promise": {},
+      "$resolved": true
+    },
+    "position": {
+      "type": "string",
+      "required": false,
+      "updateResource": {
+        "id": "common.Player.position",
+        "modelId": "common.Player",
+        "facetName": "common",
+        "name": "position",
+        "type": "number",
+        "required": false
+      },
+      "$promise": {},
+      "$resolved": true
+    },
+    "team": {
+      "type": "string",
+      "required": false,
+      "updateResource": {
+        "id": "common.Player.team",
+        "modelId": "common.Player",
+        "facetName": "common",
+        "name": "team",
+        "type": "number",
+        "required": false
+      },
+      "$promise": {},
+      "$resolved": true
+    },
+    "school": {
+      "type": "string",
+      "required": false,
+      "updateResource": {
+        "id": "common.Player.school",
+        "modelId": "common.Player",
+        "facetName": "common",
+        "name": "school",
+        "type": "number",
+        "required": false
+      },
+      "$promise": {},
+      "$resolved": true
+    },
+    "birthplace": {
+      "type": "string",
+      "required": false,
+      "updateResource": {
+        "id": "common.Player.birthplace",
+        "modelId": "common.Player",
+        "facetName": "common",
+        "name": "birthplace",
+        "type": "number",
+        "required": false
+      },
+      "$promise": {},
+      "$resolved": true
+    },
+    "picture": {
+      "type": "string",
+      "required": false,
+      "updateResource": {
+        "id": "common.Player.picture",
+        "modelId": "common.Player",
+        "facetName": "common",
+        "name": "picture",
+        "type": "number",
+        "required": false
+      },
+      "$promise": {},
+      "$resolved": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {
+    "getPlayers": {
+      "accepts": [
+        {
+          "arg": "league",
+          "type": "string",
+          "required": true,
+          "description": "",
+          "http": {
+            "source": "query"
+          }
+        }
+      ],
+      "returns": [
+        {
+          "arg": "players",
+          "type": "object",
+          "root": true,
+          "description": ""
+        }
+      ],
+      "description": "",
+      "http": [
+        {
+          "path": "/list",
+          "verb": "get"
+        }
+      ],
+      "isStatic": true
+    }
+  }
+}

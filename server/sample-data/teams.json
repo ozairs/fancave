@@ -1,0 +1,851 @@
+{
+	"nba": {
+		"metadata": {
+			"name": "National Basketball Association",
+			"shortname": "nba",
+			"logo": "assets/img/",
+			"homepage": "http://www.nba.com/"
+		},
+		"teams": [
+			{
+				"lat": 43.6433,
+				"long": -79.3791,
+				"name": "Toronto Raptors",
+				"arena": "Air Canada Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/en/7/73/Air_Canada_Centre_logo.png",
+				"city": "Toronto, Ontario",
+				"homepage": "http://www.nba.com/raptors"
+			},
+			{
+				"lat": 25.7814,
+				"long": -80.1878,
+				"name": "Miami Heat",
+				"arena": "American Airlines Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/American_Airlines_Arena%2C_Miami%2C_FL%2C_jjron_29.03.2012.jpg/120px-American_Airlines_Arena%2C_Miami%2C_FL%2C_jjron_29.03.2012.jpg",
+				"city": "Miami, Florida",
+				"homepage": "http://www.nba.com/heat"
+			},
+			{
+				"lat": 32.7904,
+				"long": -96.8103,
+				"name": "Dallas Mavericks",
+				"arena": "American Airlines Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/American_Airlines_Center_outside.jpg/120px-American_Airlines_Center_outside.jpg",
+				"city": "Dallas, Texas",
+				"homepage": "http://www.nba.com/mavericks"
+			},
+			{
+				"lat": 28.5392,
+				"long": -81.3836,
+				"name": "Orlando Magic",
+				"arena": "Amway Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Amway_Center.jpg/120px-Amway_Center.jpg",
+				"city": "Orlando, Florida",
+				"homepage": "http://www.nba.com/magic"
+			},
+			{
+				"lat": 29.4269,
+				"long": -98.4375,
+				"name": "San Antonio Spurs",
+				"arena": "AT&T Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Texasdd.JPG/120px-Texasdd.JPG",
+				"city": "San Antonio Spurs",
+				"homepage": "http://www.nba.com/spurs"
+			},
+			{
+				"lat": 39.7639,
+				"long": -86.1556,
+				"name": "Indiana Pacers",
+				"arena": "Bankers Life Fieldhouse",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bankers_Life_Fieldhouse%2C_Indian%C3%A1polis%2C_Estados_Unidos%2C_2012-10-22%2C_DD_02.jpg/120px-Bankers_Life_Fieldhouse%2C_Indian%C3%A1polis%2C_Estados_Unidos%2C_2012-10-22%2C_DD_02.jpg",
+				"city": "Indianapolis, Indiana",
+				"homepage": "http://www.nba.com/pacers"
+			},
+			{
+				"lat": 40.6827,
+				"long": -73.9747,
+				"name": "Brooklyn Nets",
+				"arena": "Barclays Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Barclays_Center_western_side.jpg/120px-Barclays_Center_western_side.jpg",
+				"city": "Brooklyn, New York",
+				"homepage": "http://www.nba.com/nets"
+			},
+			{
+				"lat": 43.0436,
+				"long": -87.9168,
+				"name": "Milwaukee Bucks",
+				"arena": "Bradley Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bradley_Center_SE_Entrance.jpg/120px-Bradley_Center_SE_Entrance.jpg",
+				"city": "Milwaukee, Wisconsin",
+				"homepage": "http://www.nba.com/bucks"
+			},
+			{
+				"lat": 38.898,
+				"long": -77.021,
+				"name": "Washington Wizards",
+				"arena": "Capital One Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Verizon_Center_wide.jpg/120px-Verizon_Center_wide.jpg",
+				"city": "Washington, D.C.",
+				"homepage": "http://www.nba.com/wizards"
+			},
+			{
+				"lat": 35.4633,
+				"long": -97.515,
+				"name": "Oklahoma City Thunder",
+				"arena": "Chesapeake Energy Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chesapeake_energy_arena_night.JPG/120px-Chesapeake_energy_arena_night.JPG",
+				"city": "Oklahoma City, Oklahoma",
+				"homepage": "http://www.nba.com/thunder"
+			},
+			{
+				"lat": 35.1383,
+				"long": -90.0506,
+				"name": "Memphis Grizzlies",
+				"arena": "FedExForum",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FedExForum.jpg/120px-FedExForum.jpg",
+				"city": "Memphis, Tennessee",
+				"homepage": "http://www.nba.com/grizzlies"
+			},
+			{
+				"lat": 38.6491,
+				"long": -121.518,
+				"name": "Sacramento Kings",
+				"arena": "Golden 1 Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Golden_1_Center_2017.jpg/120px-Golden_1_Center_2017.jpg",
+				"city": "Sacramento, California",
+				"homepage": "http://www.nba.com/kings"
+			},
+			{
+				"lat": 42.6969,
+				"long": -83.2456,
+				"name": "Detroit Pistons",
+				"arena": "Little Caesars Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Interior_of_little_Caesars_arena_panorama.jpg/120px-Interior_of_little_Caesars_arena_panorama.jpg",
+				"city": "Detroit, Michigan",
+				"homepage": "http://www.nba.com/pistons"
+			},
+			{
+				"lat": 40.7505,
+				"long": -73.9936,
+				"name": "New York Knicks",
+				"arena": "Madison Square Garden",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Madison_Square_Garden%2C_February_2013.jpg/120px-Madison_Square_Garden%2C_February_2013.jpg",
+				"city": "New York City, New York",
+				"homepage": "http://www.nba.com/knicks"
+			},
+			{
+				"lat": 45.5314,
+				"long": -122.667,
+				"name": "Portland Trail Blazers",
+				"arena": "Moda Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Moda_Center.JPG/120px-Moda_Center.JPG",
+				"city": "Portland, Oregon",
+				"homepage": "http://www.nba.com/blazers"
+			},
+			{
+				"lat": 37.7503,
+				"long": -122.203,
+				"name": "Golden State Warriors",
+				"arena": "Oracle Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Theoraclearena.jpg/120px-Theoraclearena.jpg",
+				"city": "Oakland, California",
+				"homepage": "http://www.nba.com/warriors"
+			},
+			{
+				"lat": 39.7486,
+				"long": -105.008,
+				"name": "Denver Nuggets",
+				"arena": "Pepsi Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Denver_Pepsi_Center_1.jpg/120px-Denver_Pepsi_Center_1.jpg",
+				"city": "Denver, Colorado",
+				"homepage": "http://www.nba.com/nuggets"
+			},
+			{
+				"lat": 33.7572,
+				"long": -84.3963,
+				"name": "Atlanta Hawks",
+				"arena": "Philips Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Philips_Arena.jpg/120px-Philips_Arena.jpg",
+				"city": "Atlanta, Georgia",
+				"homepage": "http://www.nba.com/hawks"
+			},
+			{
+				"lat": 41.4967,
+				"long": -81.6881,
+				"name": "Cleveland Cavaliers",
+				"arena": "Quicken Loans Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Quicken_Loans_Arena_4.jpg/120px-Quicken_Loans_Arena_4.jpg",
+				"city": "Cleveland, Ohio",
+				"homepage": "http://www.nba.com/cavs"
+			},
+			{
+				"lat": 29.9489,
+				"long": -90.0822,
+				"name": "New Orleans Pelicans",
+				"arena": "Smoothie King Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Smoothie_King_Center.jpg/120px-Smoothie_King_Center.jpg",
+				"city": "New Orleans, Louisiana",
+				"homepage": "http://www.nba.com/pelicans"
+			},
+			{
+				"lat": 35.2245,
+				"long": -80.841,
+				"name": "Charlotte Hornets",
+				"arena": "Spectrum Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Spectrum_Center%2C_Charlotte%2C_NC.jpg/120px-Spectrum_Center%2C_Charlotte%2C_NC.jpg",
+				"city": "Charlotte, North Carolina",
+				"homepage": "http://www.nba.com/hornets"
+			},
+			{
+				"lat": 34.043,
+				"long": -118.267,
+				"name": "Los Angeles Lakers",
+				"arena": "Staples Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Staples_Center_2012.jpg/120px-Staples_Center_2012.jpg",
+				"city": "Los Angeles, California",
+				"homepage": "http://www.nba.com/lakers"
+			},
+			{
+				"lat": 34.043,
+				"long": -118.267,
+				"name": "Los Angeles Clippers",
+				"arena": "Staples Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Staples_Center_2012.jpg/120px-Staples_Center_2012.jpg",
+				"city": "Los Angeles, California",
+				"homepage": "http://www.nba.com/clippers"
+			},
+			{
+				"lat": 33.4457,
+				"long": -112.071,
+				"name": "Phoenix Suns",
+				"arena": "Talking Stick Resort Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Talking_Stick_Resort_Arena.JPG/120px-Talking_Stick_Resort_Arena.JPG",
+				"city": "Phoenix, Arizona",
+				"homepage": "http://www.nba.com/suns"
+			},
+			{
+				"lat": 44.9794,
+				"long": -93.2761,
+				"name": "Minnesota Timberwolves",
+				"arena": "Target Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Target_Center.jpg/120px-Target_Center.jpg",
+				"city": "Minneapolis, Minnesota",
+				"homepage": "http://www.nba.com/timberwolves"
+			},
+			{
+				"lat": 42.3663,
+				"long": -71.0623,
+				"name": "Boston Celtics",
+				"arena": "TD Garden",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TD_Garden_%28crop%29.JPG/120px-TD_Garden_%28crop%29.JPG",
+				"city": "Boston, Massachusetts",
+				"homepage": "http://www.nba.com/celtics"
+			},
+			{
+				"lat": 29.7508,
+				"long": -95.3622,
+				"name": "Houston Rockets",
+				"arena": "Toyota Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Toyota_Center_entr.jpg/120px-Toyota_Center_entr.jpg",
+				"city": "Houston, Texas",
+				"homepage": "http://www.nba.com/rockets"
+			},
+			{
+				"lat": 41.8806,
+				"long": -87.6741,
+				"name": "Chicago Bulls",
+				"arena": "United Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/United_Center_060716.jpg/120px-United_Center_060716.jpg",
+				"city": "Chicago, Illinois",
+				"homepage": "http://www.nba.com/bulls"
+			},
+			{
+				"lat": 40.7683,
+				"long": -111.901,
+				"name": "Utah Jazz",
+				"arena": "Vivint Smart Home Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vivint_Smart_Home_Arena_August_13%2C_2016.jpg/120px-Vivint_Smart_Home_Arena_August_13%2C_2016.jpg",
+				"city": "Salt Lake City, Utah",
+				"homepage": "http://www.nba.com/jazz"
+			},
+			{
+				"lat": 39.9011,
+				"long": -75.1717,
+				"name": "Philadelphia 76ers",
+				"arena": "Wells Fargo Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wells_Fargo_Center.jpg/120px-Wells_Fargo_Center.jpg",
+				"city": "Philadelphia, Pennsylvania",
+				"homepage": "http://www.nba.com/76ers"
+			}
+		]
+	},
+	"nhl": {
+		"metadata": {
+			"name": "National Hockey League",
+			"shortname": "nhl",
+			"logo": "http://jim-nielsen.com/teamcolors/static/img/",
+			"homepage": "http://www.nhl.com/"
+		},
+		"teams": [
+			{
+				"lat": 43.6433,
+				"long": -79.3792,
+				"name": "Toronto Maple Leafs",
+				"arena": "Air Canada Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ACC_on_Bay_St_and_CN_Tower.JPG/120px-ACC_on_Bay_St_and_CN_Tower.JPG",
+				"city": "Toronto, Ontario",
+				"homepage": "http://www.nhl.com/mapleleafs"
+			},
+			{
+				"lat": 27.9428,
+				"long": -82.4519,
+				"name": "Tampa Bay Lightning",
+				"arena": "Amalie Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/St_Pete_Times_Forum_At_Sunset.jpg/120px-St_Pete_Times_Forum_At_Sunset.jpg",
+				"city": "Tampa, Florida",
+				"homepage": "http://www.nhl.com/lightning"
+			},
+			{
+				"lat": 32.7906,
+				"long": -96.8103,
+				"name": "Dallas Stars",
+				"arena": "American Airlines Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/American_Airlines_Center_outside.jpg/120px-American_Airlines_Center_outside.jpg",
+				"city": "Dallas, Texas",
+				"homepage": "http://www.nhl.com/stars"
+			},
+			{
+				"lat": 26.1583,
+				"long": -80.3256,
+				"name": "Florida Panthers",
+				"arena": "BB&T Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BankAtlanticCenterCrop.JPG/120px-BankAtlanticCenterCrop.JPG",
+				"city": "Sunrise, Florida",
+				"homepage": "http://www.nhl.com/panthers"
+			},
+			{
+				"lat": 40.7228,
+				"long": -73.5906,
+				"name": "New York Islanders",
+				"arena": "Barclays Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Barclays_Center_western_side.jpg/120px-Barclays_Center_western_side.jpg",
+				"city": "Brooklyn, New York",
+				"homepage": "http://www.nhl.com/islanders"
+			},
+			{
+				"lat": 45.4961,
+				"long": -73.5694,
+				"name": "Montreal Canadiens",
+				"arena": "Bell Centre",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Centerbell.jpg/120px-Centerbell.jpg",
+				"city": "Montreal, Quebec",
+				"homepage": "http://www.nhl.com/canadiens"
+			},
+			{
+				"lat": 49.8928,
+				"long": -97.1436,
+				"name": "Winnipeg Jets",
+				"arena": "Bell MTS Place",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTS_CENTRE_b.jpg/120px-MTS_CENTRE_b.jpg",
+				"city": "Winnipeg, Manitoba"
+			},
+			{
+				"lat": 36.1592,
+				"long": -86.7786,
+				"name": "Nashville Predators",
+				"arena": "Bridgestone Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/WTN_EVula_053.jpg/120px-WTN_EVula_053.jpg",
+				"city": "Nashville, Tennessee",
+				"homepage": "http://www.nhl.com/predators"
+			},
+			{
+				"lat": 45.2969,
+				"long": -75.9272,
+				"name": "Ottawa Senators",
+				"arena": "Canadian Tire Centre",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Canadian_Tire_Centre_Ottawa.jpg/120px-Canadian_Tire_Centre_Ottawa.jpg",
+				"city": "Ottawa, Ontario",
+				"homepage": "http://www.nhl.com/senators"
+			},
+			{
+				"lat": 38.8981,
+				"long": -77.0208,
+				"name": "Washington Capitals",
+				"arena": "Capital One Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Verizon_Center_wide.jpg/120px-Verizon_Center_wide.jpg",
+				"city": "Washington, D.C.",
+				"homepage": "http://www.nhl.com/capitals"
+			},
+			{
+				"lat": 33.5319,
+				"long": -112.261,
+				"name": "Arizona Coyotes",
+				"arena": "Gila River Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Glendale-arena.jpg/120px-Glendale-arena.jpg",
+				"city": "Glendale, Arizona",
+				"homepage": "http://www.nhl.com/coyotes"
+			},
+			{
+				"lat": 33.8078,
+				"long": -117.877,
+				"name": "Anaheim Ducks",
+				"arena": "Honda Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Honda-ext-arch.JPG/120px-Honda-ext-arch.JPG",
+				"city": "Anaheim, California",
+				"homepage": "http://www.nhl.com/ducks"
+			},
+			{
+				"lat": 42.875,
+				"long": -78.8764,
+				"name": "Buffalo Sabres",
+				"arena": "KeyBank Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/First_Niagara_Center_front.jpg/120px-First_Niagara_Center_front.jpg",
+				"city": "Buffalo, New York",
+				"homepage": "http://www.nhl.com/sabres"
+			},
+			{
+				"lat": 42.3253,
+				"long": -83.0514,
+				"name": "Detroit Red Wings",
+				"arena": "Little Caesars Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Interior_of_little_Caesars_arena_panorama.jpg/120px-Interior_of_little_Caesars_arena_panorama.jpg",
+				"city": "Detroit, Michigan",
+				"homepage": "http://www.nhl.com/redwings"
+			},
+			{
+				"lat": 40.7506,
+				"long": -73.9936,
+				"name": "New York Rangers",
+				"arena": "Madison Square Garden",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Madison_Square_Garden%2C_February_2013.jpg/120px-Madison_Square_Garden%2C_February_2013.jpg",
+				"city": "New York City, New York",
+				"homepage": "http://www.nhl.com/rangers"
+			},
+			{
+				"lat": 39.9693,
+				"long": -83.0061,
+				"name": "Columbus Blue Jackets",
+				"arena": "Nationwide Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Columbus-ohio-nationwide-arena.jpg/120px-Columbus-ohio-nationwide-arena.jpg",
+				"city": "Columbus, Ohio",
+				"homepage": "http://www.nhl.com/bluejackets"
+			},
+			{
+				"lat": 39.7486,
+				"long": -105.007,
+				"name": "Colorado Avalanche",
+				"arena": "Pepsi Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Denver_Pepsi_Center_1.jpg/120px-Denver_Pepsi_Center_1.jpg",
+				"city": "Denver, Colorado",
+				"homepage": "http://www.nhl.com/avalanche"
+			},
+			{
+				"lat": 35.8033,
+				"long": -78.7219,
+				"name": "Carolina Hurricanes",
+				"arena": "PNC Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PNC_Arena_Raleigh.JPG/120px-PNC_Arena_Raleigh.JPG",
+				"city": "Raleigh, North Carolina",
+				"homepage": "http://www.nhl.com/hurricanes"
+			},
+			{
+				"lat": 40.4394,
+				"long": -79.9892,
+				"name": "Pittsburgh Penguins",
+				"arena": "PPG Paints Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Consol_Energy_Center_March_2010.jpg/120px-Consol_Energy_Center_March_2010.jpg",
+				"city": "Pittsburgh, Pennsylvania",
+				"homepage": "http://www.nhl.com/penguins"
+			},
+			{
+				"lat": 40.7336,
+				"long": -74.1711,
+				"name": "New Jersey Devils",
+				"arena": "Prudential Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pudcentnewarkjeh.JPG/120px-Pudcentnewarkjeh.JPG",
+				"city": "Newark, New Jersey",
+				"homepage": "http://www.nhl.com/devils"
+			},
+			{
+				"lat": 49.2778,
+				"long": -123.109,
+				"name": "Vancouver Canucks",
+				"arena": "Rogers Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Rogers_Arena.jpg/120px-Rogers_Arena.jpg",
+				"city": "Vancouver, British Columbia",
+				"homepage": "http://www.nhl.com/canucks"
+			},
+			{
+				"lat": 53.5714,
+				"long": -113.456,
+				"name": "Edmonton Oilers",
+				"arena": "Rogers Place",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rogers_Place_Arena.jpg/120px-Rogers_Place_Arena.jpg",
+				"city": "Edmonton, Alberta",
+				"homepage": "http://www.nhl.com/oilers"
+			},
+			{
+				"lat": 51.0375,
+				"long": -114.052,
+				"name": "Calgary Flames",
+				"arena": "Scotiabank Saddledome",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/PengrowthSaddledomeNight.jpg/120px-PengrowthSaddledomeNight.jpg",
+				"city": "Calgary, Alberta",
+				"homepage": "http://www.nhl.com/flames"
+			},
+			{
+				"lat": 37.3328,
+				"long": -121.901,
+				"name": "San Jose Sharks",
+				"arena": "SAP Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/PengrowthSaddledomeNight.jpg/120px-PengrowthSaddledomeNight.jpg",
+				"city": "San Jose, California",
+				"homepage": "http://www.nhl.com/sharks"
+			},
+			{
+				"lat": 38.6267,
+				"long": -90.2025,
+				"name": "St Louis Blues",
+				"arena": "Scottrade Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Scottrade_Center_3Apr2005.jpg/120px-Scottrade_Center_3Apr2005.jpg",
+				"city": "St. Louis, Missouri",
+				"homepage": "http://www.nhl.com/blues"
+			},
+			{
+				"lat": 34.0431,
+				"long": -118.267,
+				"name": "Los Angeles Kings",
+				"arena": "Staples Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Staplescenter.jpg/120px-Staplescenter.jpg",
+				"city": "Los Angeles, California",
+				"homepage": "http://www.nhl.com/kings"
+			},
+			{
+				"lat": 42.3663,
+				"long": -71.0622,
+				"name": "Boston Bruins",
+				"arena": "TD Garden",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TD_Garden_%28crop%29.JPG/120px-TD_Garden_%28crop%29.JPG",
+				"city": "Boston, Massachusetts",
+				"homepage": "http://www.nhl.com/bruins"
+			},
+			{
+				"lat": 36.102376,
+				"long": -115.177572,
+				"name": "Vegas Golden Knights",
+				"arena": "T-Mobile Arena",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/T_Mobile_Arena_The_Strip_Las_Vegas_%2829798246202%29.jpg/120px-T_Mobile_Arena_The_Strip_Las_Vegas_%2829798246202%29.jpg",
+				"city": "Paradise, Nevada",
+				"homepage": "http://www.nhl.com/goldenknights"
+			},
+			{
+				"lat": 41.8806,
+				"long": -87.6742,
+				"name": "Chicago Blackhawks",
+				"arena": "United Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/United_Center_060716.jpg/120px-United_Center_060716.jpg",
+				"city": "Chicago, Illinois",
+				"homepage": "http://www.nhl.com/blackhawks"
+			},
+			{
+				"lat": 39.9011,
+				"long": -75.1719,
+				"name": "Philadelphia Flyers",
+				"arena": "Wells Fargo Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wells_Fargo_Center.jpg/120px-Wells_Fargo_Center.jpg",
+				"city": "Philadelphia, Pennsylvania",
+				"homepage": "http://www.nhl.com/flyers"
+				
+			},
+			{
+				"lat": 44.9447,
+				"long": -93.1011,
+				"name": "Minnesota Wild",
+				"arena": "Xcel Energy Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/XcelEnergyCenteroverview.jpg/120px-XcelEnergyCenteroverview.jpg",
+				"city": "Saint Paul, Minnesota",
+				"homepage": "http://www.nhl.com/wild"
+			}
+		]
+	},
+	"mlb": {
+		"metadata": {
+			"name": "Major League Baseball",
+			"shortname": "mlb",
+			"logo": "http://jim-nielsen.com/teamcolors/static/img/",
+			"homepage": "http://www.mlb.com/"
+		},
+		"teams": [
+			{
+				"name": "Los Angeles Angels of Anaheim",
+				"arena": "Angel Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Angel_Stadium_of_Anaheim.jpg/200px-Angel_Stadium_of_Anaheim.jpg",
+				"city": "Anaheim, California",
+				"lat": 33.7999,
+				"long": -117.883,
+				"homepage": "http://www.mlb.com/angels"
+			},
+			{
+				"name": "San Francisco Giants",
+				"arena": "AT&T Park",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/AT%26T_Park_July_24%2C_2016.jpg/200px-AT%26T_Park_July_24%2C_2016.jpg",
+				"city": "San Francisco, California",
+				"lat": 37.7785,
+				"long": -122.39,
+				"homepage": "http://www.mlb.com/giants"
+			},
+			{
+				"lat": 39.7559,
+				"long": -104.994,
+				"name": "Colorado Rockies",
+				"arena": "Coors Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Coors_field_1.JPG/200px-Coors_field_1.JPG",
+				"city": "Denver, Colorado",
+				"homepage": "http://www.mlb.com/rockies"
+			},
+			{
+				"lat": 38.6223,
+				"long": -90.1939,
+				"name": "St Louis Cardinals",
+				"arena": "Busch Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Busch_Stadium_III_%2816180972535%29.jpg/200px-Busch_Stadium_III_%2816180972535%29.jpg",
+				"city": "St. Louis, Missouri",
+				"homepage": "http://www.mlb.com/cardinals"
+			},
+			{
+				"lat": 33.4455,
+				"long": -112.067,
+				"name": "Arizona Diamondbacks",
+				"arena": "Chase Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chase_Field_-_2011-07-11_-_Interior_North_Upper.jpg/200px-Chase_Field_-_2011-07-11_-_Interior_North_Upper.jpg",
+				"city": "Phoenix, Arizona",
+				"homepage": "http://www.mlb.com/dbacks"
+			},
+			{
+				"lat": 34.0727,
+				"long": -118.241,
+				"name": "Los Angeles Dodgers",
+				"arena": "Dodger Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dodger_Stadium_field_from_upper_deck_2015-10-04.jpg/200px-Dodger_Stadium_field_from_upper_deck_2015-10-04.jpg",
+				"city": "Los Angeles, California",
+				"homepage": "http://www.mlb.com/dodgers"
+			},
+			{
+				"lat": 40.7563,
+				"long": -73.846,
+				"name": "New York Mets",
+				"arena": "Citi Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Citi_Field%2C_June_2_2012.jpg/200px-Citi_Field%2C_June_2_2012.jpg",
+				"city": "Queens, New York",
+				"homepage": "http://www.mlb.com/mets"
+			},
+			{
+				"lat": 39.9055,
+				"long": -75.1666,
+				"name": "Philadelphia Phillies",
+				"arena": "Citizens Bank Park",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fieldatthepark.jpg/200px-Fieldatthepark.jpg",
+				"city": "Philadelphia, Pennsylvania",
+				"homepage": "http://www.mlb.com/phillies"
+			},
+			{
+				"lat": 42.3392,
+				"long": -83.0495,
+				"name": "Detroit Tigers",
+				"arena": "Comerica Park",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tigers_opening_day2_2007.jpg/200px-Tigers_opening_day2_2007.jpg",
+				"city": "Detroit, Michigan",
+				"homepage": "http://www.mlb.com/tigers"
+			},
+			{
+				"lat": 42.3466,
+				"long": -71.097,
+				"name": "Boston Red Sox",
+				"arena": "Fenway Park",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Fenway_from_Legend%27s_Box.jpg/200px-Fenway_from_Legend%27s_Box.jpg",
+				"city": "Boston, Massachusetts",
+				"homepage": "http://www.mlb.com/redsox"
+			},
+			{
+				"lat": 32.7511,
+				"long": -97.0825,
+				"name": "Texas Rangers",
+				"arena": "Globe Life Park in Arlington",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ballpark_in_Arlington_May_2009.jpg/200px-Ballpark_in_Arlington_May_2009.jpg",
+				"city": "Arlington, Texas",
+				"homepage": "http://www.mlb.com/rangers"
+			},
+			{
+				"lat": 39.0979,
+				"long": -84.5082,
+				"name": "Cincinnati Reds",
+				"arena": "Great American Ball Park",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Great_American_Ball_Park_%2820718178689%29.jpg/200px-Great_American_Ball_Park_%2820718178689%29.jpg",
+				"city": "Cincinnati, Ohio",
+				"homepage": "http://www.mlb.com/reds"
+			},
+			{
+				"lat": 39.0511,
+				"long": -94.4811,
+				"name": "Kansas City Royals",
+				"arena": "Kauffman Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/NewKauffman.jpg/200px-NewKauffman.jpg",
+				"city": "Kansas City, Missouri",
+				"homepage": "http://www.mlb.com/royals"
+			},
+			{
+				"lat": 25.7787,
+				"long": -80.2203,
+				"name": "Miami Marlins",
+				"arena": "Marlins Park",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Marlins_First_Pitch_at_Marlins_Park%2C_April_4%2C_2012_%28cropped%29.jpg/200px-Marlins_First_Pitch_at_Marlins_Park%2C_April_4%2C_2012_%28cropped%29.jpg",
+				"city": "Miami, Florida",
+				"homepage": "http://www.mlb.com/marlins"
+			},
+			{
+				"lat": 43.028,
+				"long": -87.9712,
+				"name": "Milwaukee Brewers",
+				"arena": "Miller Park",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MillerPark2.jpg/200px-MillerPark2.jpg",
+				"city": "Milwaukee, Wisconsin",
+				"homepage": "http://www.mlb.com/brewers"
+			},
+			{
+				"lat": 29.757,
+				"long": -95.3548,
+				"name": "Houston Astros",
+				"arena": "Minute Maid Park",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Minute_Maid_Park_2010.JPG/200px-Minute_Maid_Park_2010.JPG",
+				"city": "Houston, Texas",
+				"homepage": "http://www.mlb.com/astros"
+			},
+			{
+				"lat": 38.873,
+				"long": -77.0075,
+				"name": "Washington Nationals",
+				"arena": "Nationals Park",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Opening_of_Nationals_Park_-_039_%282377924697%29.jpg/200px-Opening_of_Nationals_Park_-_039_%282377924697%29.jpg",
+				"city": "Washington, D.C.",
+				"homepage": "http://www.mlb.com/nationals"
+			},
+			{
+				"lat": 37.7516,
+				"long": -122.201,
+				"name": "Oakland Athletics",
+				"arena": "Oakland–Alameda County Coliseum",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/McAfee_Coliseum_%2815993646150%29.jpg/200px-McAfee_Coliseum_%2815993646150%29.jpg",
+				"city": "Oakland, California",
+				"homepage": "http://www.mlb.com/athletics"
+			},
+			{
+				"lat": 39.284,
+				"long": -76.6216,
+				"name": "Baltimore Orioles",
+				"arena": "Oriole Park at Camden Yards",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/CamdenYards_2005-05-08.jpg/200px-CamdenYards_2005-05-08.jpg",
+				"city": "Baltimore, Maryland",
+				"homepage": "http://www.mlb.com/orioles"
+			},
+			{
+				"lat": 32.7077,
+				"long": -117.157,
+				"name": "San Diego Padres",
+				"arena": "Petco Park",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Petco_Park_Interior.JPG/200px-Petco_Park_Interior.JPG",
+				"city": "San Diego, California",
+				"homepage": "http://www.mlb.com/padres"
+			},
+			{
+				"lat": 40.4473,
+				"long": -80.0068,
+				"name": "Pittsburgh Pirates",
+				"arena": "PNC Park",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/PNC_Park%2C_Home_of_Pittsburgh_Pirates.jpg/200px-PNC_Park%2C_Home_of_Pittsburgh_Pirates.jpg",
+				"city": "Pittsburgh, Pennsylvania",
+				"homepage": "http://www.mlb.com/pirates"
+			},
+			{
+				"lat": 41.4962,
+				"long": -81.6852,
+				"name": "Cleveland Indians",
+				"arena": "Progressive Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2016-10-06_Progressive_Field_before_ALDS_Game_1_between_Cleveland_and_Boston.jpg/200px-2016-10-06_Progressive_Field_before_ALDS_Game_1_between_Cleveland_and_Boston.jpg",
+				"city": "Cleveland, Ohio",
+				"homepage": "http://www.mlb.com/indians"
+			},
+			{
+				"lat": 43.6411,
+				"long": -79.3897,
+				"name": "Toronto Blue Jays",
+				"arena": "Rogers Centre",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Rogers_Centre_Blue_Jays.jpg/200px-Rogers_Centre_Blue_Jays.jpg",
+				"city": "Toronto, Ontario",
+				"homepage": "http://www.mlb.com/bluejays"
+			},
+			{
+				"lat": 47.5914,
+				"long": -122.332,
+				"name": "Seattle Mariners",
+				"arena": "Safeco Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/SafecoFieldTop_%28cropped%29.jpg/200px-SafecoFieldTop_%28cropped%29.jpg",
+				"city": "Seattle, Washington",
+				"homepage": "http://www.mlb.com/mariners"
+			},
+			{
+				"lat": 44.9817,
+				"long": -93.2773,
+				"name": "Minnesota Twins",
+				"arena": "Target Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Target_Field_April_2010.jpg/200px-Target_Field_April_2010.jpg",
+				"city": "Minneapolis, Minnesota",
+				"homepage": "http://www.mlb.com/twins"
+			},
+			{
+				"lat": 27.7682,
+				"long": -82.6535,
+				"name": "Tampa Bay Rays",
+				"arena": "Tropicana Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tropicana_Field_Playing_Field_Opening_Day_2010.JPG/200px-Tropicana_Field_Playing_Field_Opening_Day_2010.JPG",
+				"city": "St. Petersburg, Florida",
+				"homepage": "http://www.mlb.com/rays"
+			},
+			{
+				"lat": 33.7348,
+				"long": -84.39,
+				"name": "Atlanta Braves",
+				"arena": "SunTrust Park",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/SunTrust_Park_Opening_Day_2017.jpg/200px-SunTrust_Park_Opening_Day_2017.jpg",
+				"city": "Cumberland, Georgia",
+				"homepage": "http://www.mlb.com/braves"
+			},
+			{
+				"lat": 41.8299,
+				"long": -87.6335,
+				"name": "Chicago White Sox",
+				"arena": "Guaranteed Rate Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/U.S._Cellular_Field_%2830972191694%29.jpg/200px-U.S._Cellular_Field_%2830972191694%29.jpg",
+				"city": "Chicago, Illinois",
+				"homepage": "http://www.mlb.com/whitesox"
+			},
+			{
+				"lat": 41.9479,
+				"long": -87.6559,
+				"name": "Chicago Cubs",
+				"arena": "Wrigley Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wrigley_Field_on_July_24%2C_2015.jpg/200px-Wrigley_Field_on_July_24%2C_2015.jpg",
+				"city": "Chicago, Illinois",
+				"homepage": "http://www.mlb.com/cubs"
+			},
+			{
+				"lat": 40.8293,
+				"long": -73.9277,
+				"name": "New York Yankees",
+				"arena": "Yankee Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Yankee_Stadium_upper_deck_2010.jpg/200px-Yankee_Stadium_upper_deck_2010.jpg",
+				"city": "Bronx, New York",
+				"homepage": "http://www.mlb.com/yankees"
+			}
+		]
+	}
+}

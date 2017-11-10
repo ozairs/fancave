@@ -1,0 +1,111 @@
+{
+  "name": "Team",
+  "plural": "team",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "arena": {
+      "type": "string",
+      "required": false
+    },
+    "city": {
+      "type": "string",
+      "required": false
+    },
+    "coach": {
+      "type": "string",
+      "required": false
+    },
+    "description": {
+      "type": "number",
+      "required": false
+    },
+    "league": {
+      "type": "string",
+      "required": false
+    },
+    "logo": {
+      "type": "string",
+      "required": false
+    },
+    "name": {
+      "type": "string",
+      "required": false
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {
+    "getScores": {
+      "accepts": [
+        {
+          "arg": "league",
+          "type": "string",
+          "required": true,
+          "description": "",
+          "http": {
+            "source": "query"
+          }
+        },
+        {
+          "arg": "date",
+          "type": "string",
+          "required": true,
+          "description": "",
+          "http": {
+            "source": "query"
+          }
+        }
+      ],
+      "returns": [
+        {
+          "arg": "scores",
+          "type": "array",
+          "root": true,
+          "description": ""
+        }
+      ],
+      "description": "",
+      "http": [
+        {
+          "path": "/scores",
+          "verb": "get"
+        }
+      ],
+      "isStatic": true
+    },
+    "getTeams": {
+      "accepts": [
+        {
+          "arg": "league",
+          "type": "string",
+          "required": true,
+          "description": "",
+          "http": {
+            "source": "query"
+          }
+        }
+      ],
+      "returns": [
+        {
+          "arg": "teams",
+          "type": "array",
+          "root": true,
+          "description": ""
+        }
+      ],
+      "description": "",
+      "http": [
+        {
+          "path": "/list",
+          "verb": "get"
+        }
+      ],
+      "isStatic": true
+    }
+  }
+}
