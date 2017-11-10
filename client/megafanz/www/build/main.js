@@ -1610,17 +1610,17 @@ var _a, _b, _c, _d, _e;
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AUTH_CONFIG; });
 var AUTH_CONFIG = {
-    domain: 'ozairs.auth0.com',
-    clientID: 'r6n0rutGmBlabRmu3seS7oeXpc8HG6Mh',
+    domain: '',
+    clientID: '',
     database: {
         realm: 'Username-Password-Authentication',
-        audience: 'https://www.superfanz.ca/',
+        audience: '',
         scope: 'openid',
     },
     social: {
         connection: 'google-oauth2',
         responseType: 'id_token token',
-        redirectUri: 'https://megafanz.mybluemix.net/index.html#/login'
+        redirectUri: ''
     }
 };
 //# sourceMappingURL=global-params.js.map
