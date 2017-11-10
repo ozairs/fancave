@@ -21,6 +21,8 @@ node_modules
 schemas
 typings
 npm-debug.log
+client/megafanz/src/providers/global-service/global-params.ts
+client/megafanz/www
 client/megafanz/resources
 client/megafanz/plugins
 client/megafanz/node_modules
@@ -29,9 +31,8 @@ client/megafanz/.gitignore
 client/megafanz/config.xml
 client/megafanz/ionic.config.json
 client/megafanz/package.json
-client/megafanz/README.node_modules
+client/megafanz/README.md
 client/megafanz/tsconfig.json
 client/megafanz/tslint.json
 client/README.md
-client/megafanz/src/providers/global-service/global-params.development.ts
-server/datasources.development.json
+server/datasources.json

@@ -26255,8 +26255,12 @@ page-players ion-card-header {
   background-color: #222;
 }
 
+reset-page ion-label {
+  font-size: medium !important;
+}
+
 page-signup ion-label {
-  font-size: larger;
+  font-size: medium !important;
 }
 
 page-teams #map_canvas {
