@@ -72,7 +72,7 @@ export class GlobalServiceProvider {
    * opens a confirmation dialog with buttons
    * @param message - message for the dialog
    */
-  public presentConfirm(message, action) {
+  public presentConfirm(message) {
     const alert = this.alertCtrl.create({
       title: 'Confirm',
       message: message,
@@ -81,7 +81,6 @@ export class GlobalServiceProvider {
           text: 'Confirm',
           role: 'confirm',
           handler: () => {
-            action();
             setTimeout(1000);  
           }
         }

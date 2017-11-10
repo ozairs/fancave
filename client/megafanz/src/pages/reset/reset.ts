@@ -45,7 +45,9 @@ export class ResetPage {
     this.resetPage.status = this.authService.changePassword(this.resetForm.controls.email.value);
 
     if (this.resetPage.status) {
-      this.global.presentConfirm("Password reset request successful.", this.app.getRootNav().push('LoginPage'));
+      this.global.presentConfirm("Password reset request successful.");
+      setTimeout(1000);
+      this.app.getRootNav().push('LoginPage');
     }
     console.log(">> resetPasword");
   }

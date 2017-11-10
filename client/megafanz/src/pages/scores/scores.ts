@@ -136,7 +136,6 @@ export class ScoresPage {
 	private doRefresh(refresher) {
 		console.log("<< doRefresh");
 		refresher.complete();
-		this.global.presentLoading();
 		var convertDate = moment(this.date, moment.ISO_8601).format('YYYY-MM-DD');
 		this.getScores(convertDate, true);
 		console.log(">> doRefresh");
