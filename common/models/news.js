@@ -119,11 +119,19 @@ module.exports = function (News) {
 	 */
 	News.removeDuplicates = function (articles) {
 		console.log('<< removeDuplicates');
-		var result = articles.filter(function (a) {
-			return (!this[a.url] && (this[a.url] = true)) || (!this[a.title] && (this[a.title] = true));
-		}, Object.create(null));
+		var values = {}; //used as hashtable to track current items
+		var key = 'title'
+		// var result = articles.filter(function (a) {
+		// 	return (!this[a.url] && (this[a.url] = true)) || (!this[a.title] && (this[a.title] = true));
+		// }, Object.create(null));
+		var results = articles.filter(function (item) {
+			var val = item[key];
+			var exists = values[val];
+			values[val] = true;
+			return !exists;
+		});
 		console.log('>> removeDuplicates');
-		return result;
+		return results;
 	}
 };
 
