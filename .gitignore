@@ -21,11 +21,9 @@ node_modules
 schemas
 typings
 npm-debug.log
-client/megafanz/src
 client/megafanz/resources
 client/megafanz/plugins
 client/megafanz/node_modules
-client/megafanz/hooks
 client/megafanz/.editorconfig
 client/megafanz/.gitignore
 client/megafanz/config.xml
