@@ -826,5 +826,278 @@
 			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/boston-red-sox.svg",
 			"twitter": "search?q=Chris Sale"
 		}
+	],
+	"nfl" : [
+		{
+			"id": 1,
+			"name": "Le'Veon Bell",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "RB",
+			"team": "Pittsburgh Steelers",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/Ytwt0KxtU4esVzj2nSZt4Q--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242017/26671.png",
+			"logo": "assets/img/nfl/pittsburgh-steelers.svg",
+			"twitter": "search?q=Le'Veon Bell"
+		},
+		{
+			"id": 2,
+			"name": "Antonio Brown",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "Pittsburgh Steelers",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/P8WCIYPfv9nIh1Z3qWurbg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242017/24171.png",
+			"logo": "assets/img/nfl/pittsburgh-steelers.svg",
+			"twitter": "search?q=Antonio Brown"
+		},
+		{
+			"id": 3,
+			"name": "Julio Jones",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "WR",
+			"team": "Atlanta Falcons",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/e4X4mCnfoCSepSM9kBNqQw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08222017/24793.png",
+			"logo": "assets/img/nfl/atlanta-falcons.svg",
+			"twitter": "search?q=Julio Jones"
+		},
+		{
+			"id": 4,
+			"name": "Odell Beckham Jr.",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "New York Giants",
+			"logo": "assets/img/nfl/new-york-giants.svg",
+			"twitter": "search?q=Odell Beckham Jr."
+		},
+		{
+			"id": 5,
+			"name": "Mike Evans",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "WR",
+			"team": "Tampa Bay Buccaneers",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/j8MBXl15pm1oZEPRtgNu2Q--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242017/27535.png",
+			"logo": "assets/img/nfl/tampa-bay-buccaneers.svg",
+			"twitter": "search?q=Mike Evans"
+		},
+		{
+			"id": 6,
+			"name": "Melvin Gordon",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "Los Angeles Chargers",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/O2qlIV2m7x1vpJWVeOqmqw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09092017/28403.png",
+			"logo": "assets/img/nfl/los-angeles-chargers.svg",
+			"twitter": "search?q=Melvin Gordon"
+		},
+		{
+			"id": 7,
+			"name": "Devonta Freeman",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "Atlanta Falcons",
+			"logo": "assets/img/nfl/atlanta-falcons.svg",
+			"twitter": "search?q=Devonta Freeman"
+		},
+		{
+			"id": 8,
+			"name": "Jay Ajayi",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "RB",
+			"team": "Philadelphia Eagles",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/A_P669wrQGHUCPrWQYUwqA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09092017/28537.png",
+			"logo": "assets/img/nfl/philadelphia-eagles.svg",
+			"twitter": "search?q=Jay Ajayi"
+		},
+		{
+			"id": 9,
+			"name": "A.J. Green",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "Cincinnati Bengals",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/oIpSsGT5NmYDUeysRzyHGA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09052017/24791.png",
+			"logo": "assets/img/nfl/cincinnati-bengals.svg",
+			"twitter": "search?q=A.J. Green"
+		},
+		{
+			"id": 10,
+			"name": "LeSean McCoy",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "Buffalo Bills",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/yBsDuhm4AEhZIBKZP6bWRg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08222017/9317.png",
+			"logo": "assets/img/nfl/buffalo-bills.svg",
+			"twitter": "search?q=LeSean McCoy"
+		},
+		{
+			"id": 11,
+			"name": "Jordy Nelson",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "Green Bay Packers",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/5fnyKZMKOGgEX4PV4DlVTQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09292017/8813.png",
+			"logo": "assets/img/nfl/green-bay-packers.svg",
+			"twitter": "search?q=Jordy Nelson"
+		},
+		{
+			"id": 12,
+			"name": "DeMarco Murray",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "Tennessee Titans",
+			"logo": "assets/img/nfl/tennessee-titans.svg",
+			"twitter": "search?q=DeMarco Murray"
+		},
+		{
+			"id": 13,
+			"name": "Michael Thomas",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "WR",
+			"team": "New Orleans Saints",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/7.KpEmKadJ5q5wuaSflxsA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09162017/29281.png",
+			"logo": "assets/img/nfl/new-orleans-saints.svg",
+			"twitter": "search?q=Michael Thomas"
+		},
+		{
+			"id": 14,
+			"name": "Jordan Howard",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "RB",
+			"team": "Chicago Bears",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/e8FB1mn4gF.7dDJPBXE59g--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09012017/29384.png",
+			"logo": "assets/img/nfl/chicago-bears.svg",
+			"twitter": "search?q=Jordan Howard"
+		},
+		{
+			"id": 15,
+			"name": "Ezekiel Elliott",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "RB",
+			"team": "Dallas Cowboys",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/SfzlIeDWLlUUT0I4kgcg.Q--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09292017/29238.png",
+			"logo": "assets/img/nfl/dallas-cowboys.svg",
+			"twitter": "search?q=Ezekiel Elliott"
+		},
+		{
+			"id": 16,
+			"name": "Brandin Cooks",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "New England Patriots",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/ogoJ64ukRXQlWhoWsF50mg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08312017/27548.png",
+			"logo": "assets/img/nfl/new-england-patriots.svg",
+			"twitter": "search?q=Brandin Cooks"
+		},
+		{
+			"id": 17,
+			"name": "Doug Baldwin",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "WR",
+			"team": "Seattle Seahawks",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/KOPNOsv2DDaBkOWHWMCWLg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08242017/25105.png",
+			"logo": "assets/img/nfl/seattle-seahawks.svg",
+			"twitter": "search?q=Doug Baldwin"
+		},
+		{
+			"id": 18,
+			"name": "Dez Bryant",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "WR",
+			"team": "Dallas Cowboys",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/p5xjvUVWrPnKoGQgNHy34A--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09292017/23999.png",
+			"logo": "assets/img/nfl/dallas-cowboys.svg",
+			"twitter": "search?q=Dez Bryant"
+		},
+		{
+			"id": 19,
+			"name": "Dalvin Cook",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "Minnesota Vikings",
+			"logo": "assets/img/nfl/minnesota-vikings.svg",
+			"twitter": "search?q=Dalvin Cook"
+		},
+		{
+			"id": 20,
+			"name": "Todd Gurley II",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "RB",
+			"team": "Los Angeles Rams",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/oBwB5TFYFHJ8w4kGQfcd7w--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09092017/28398.png",
+			"logo": "assets/img/nfl/los-angeles-rams.svg",
+			"twitter": "search?q=Todd Gurley II"
+		},
+		{
+			"id": 21,
+			"name": "Leonard Fournette",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "Jacksonville Jaguars",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/6YFahEF8lNuDJTqwdMLqUw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09132017/30117.png",
+			"logo": "assets/img/nfl/jacksonville-jaguars.svg",
+			"twitter": "search?q=Leonard Fournette"
+		},
+		{
+			"id": 22,
+			"name": "Kareem Hunt",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "RB",
+			"team": "Kansas City Chiefs",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/Q7g8N_9J1Kbwueo5N54doA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09062017/30199.png",
+			"logo": "assets/img/nfl/kansas-city-chiefs.svg",
+			"twitter": "search?q=Kareem Hunt"
+		},
+		{
+			"id": 23,
+			"name": "Isaiah Crowell",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "RB",
+			"team": "Cleveland Browns",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/9F4Q2KS0vFISOuPsGLwjgA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09052017/28014.png",
+			"logo": "assets/img/nfl/cleveland-browns.svg",
+			"twitter": "search?q=Isaiah Crowell"
+		},
+		{
+			"id": 24,
+			"name": "Amari Cooper",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "Oakland Raiders",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/VmufFrcGHTPwtbGXH_aN7Q--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/09052017/28392.png",
+			"logo": "assets/img/nfl/oakland-raiders.svg",
+			"twitter": "search?q=Amari Cooper"
+		},
+		{
+			"id": 25,
+			"name": "Christian McCaffrey",
+			"sport": "Football",
+			"league": "nfl",
+			"position": "",
+			"team": "Carolina Panthers",
+			"picture": "https://s.yimg.com/iu/api/res/1.2/fjNFCI1xz9FNy9R8LZqVLA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nfl_cutout/players_l/08222017/30121.png",
+			"logo": "assets/img/nfl/carolina-panthers.svg",
+			"twitter": "search?q=Christian McCaffrey"
+		}
 	]
 }

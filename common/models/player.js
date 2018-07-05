@@ -1,6 +1,7 @@
 'use strict';
 
 const image_url = 'assets/img/';
+var mongodb = require('mongodb');
 
 /**
  * set of functions to retrieve a set of professional players for a given league from a sport datasource
@@ -14,62 +15,92 @@ module.exports = function (Player) {
 	Player.getPlayers = function (league, callback) {
 		console.log('<< getPlayers');
 		let data = [];
-
-		//request to obtain a set of players for a given league using a previously obtained access token
-		Player.app.dataSources.sportsDS.getPlayers(league, global.access_token, function (err, response) {
-			//error calling sports provider service
-			if (err) {
-				//access token expired - use refresh token to obtain a new access token
-				if (err.error) {
-					Player.app.dataSources.sportsDS.getToken(function (err, response) {
-						if (err) {
-							console.log("Unable to call players service with error %s", err.message);
-							//return static data unable when news service is unavailable
-							console.log("returning data file file");
-							var data = require('../../server/sample-data/players.json')[league];
-							return callback(null, data);
-						}
-			
-						global.access_token = JSON.parse(response).access_token;
-						global.refresh_token = JSON.parse(response).refresh_token;
-						// console.log("ys access token " + global.access_token);
-						// console.log("ys refresh token " + global.refresh_token);
-
-						//re-request the set of news articles using the previously obtained access token
-						Player.app.dataSources.sportsDS.getPlayers(league, global.access_token, function (err, response) {
-							//error occured calling sports provider with new access token so return local data
+		
+		var mongoDS = Player.app.dataSources.mongo;
+		//obtain data from database if available
+		if (mongoDS) {
+			var mongo_url = 'mongodb://' + mongoDS.settings.host + ':' + mongoDS.settings.port;
+			//execute calls to database directly using mongo without using models
+			mongodb.connect(mongo_url, function(err, client) {
+				if (err) {
+					console.log("Unable to connect to URL %s", mongo_url);
+					throw err;
+				}
+				console.log("Connected to  database");
+				var dbo = client.db(mongoDS.settings.database + mongoDS.settings.replicaSet);
+				//perform query of players filtered by league
+				dbo.collection("players").find( { 'league' : league} ).toArray(function(err, players) {
+					if (err) {
+						console.log('Error: ' + 'unable to find any players');
+					} else {
+						console.log('Successfully returned %s players from league %s', players.length, league);
+						data = players;
+					}
+					client.close();
+					callback(null, data);
+				});				
+			});
+		}
+		else {
+			//request to obtain a set of players for a given league using a previously obtained access token
+			Player.app.dataSources.sportsDS.getPlayers(league, global.access_token, function (err, response) {
+				//error calling sports provider service
+				if (err) {
+					//access token expired - use refresh token to obtain a new access token
+					if (err.error) {
+						Player.app.dataSources.sportsDS.getToken(function (err, response) {
 							if (err) {
 								console.log("Unable to call players service with error %s", err.message);
 								//return static data unable when news service is unavailable
-								console.log("returning data file file");
+								console.log("returning data file");
 								var data = require('../../server/sample-data/players.json')[league];
+								if (!data) data = [];
 								return callback(null, data);
 							}
-							// return callback(err.message); //error making request
-							//format the players list for the response
-							data = Player.parsePlayers(response);
-							callback(null, data);
+				
+							global.access_token = JSON.parse(response).access_token;
+							global.refresh_token = JSON.parse(response).refresh_token;
+							// console.log("ys access token " + global.access_token);
+							// console.log("ys refresh token " + global.refresh_token);
+
+							//re-request the set of news articles using the previously obtained access token
+							Player.app.dataSources.sportsDS.getPlayers(league, global.access_token, function (err, response) {
+								//error occured calling sports provider with new access token so return local data
+								if (err) {
+									console.log("Unable to call players service with error %s", err.message);
+									//return static data unable when news service is unavailable
+									console.log("returning data file ");
+									var data = require('../../server/sample-data/players.json')[league];
+									if (!data) data = [];
+									return callback(null, data);
+								}
+								// return callback(err.message); //error making request
+								//format the players list for the response
+								data = Player.parsePlayers(response);
+								callback(null, data);
+							});
 						});
-					});
+					}
+					//error calling sports provider service so return local data
+					else {
+						console.log("Unable to call players service with error %s", err.message.error.description);
+						//return static data unable when news service is unavailable
+						console.log("returning data file");
+						var data = require('../../server/sample-data/players.json')[league];
+						if (!data) data = [];
+						return callback(null, data);
+					}
+					// return callback(err.message); //error making request
 				}
-				//error calling sports provider service so return local data
+				//successfully called sports provider service
 				else {
-					console.log("Unable to call players service with error %s", err.message.error.description);
-					//return static data unable when news service is unavailable
-					console.log("returning data file file");
-					var data = require('../../server/sample-data/players.json')[league];
-					return callback(null, data);
-				}
-				// return callback(err.message); //error making request
-			}
-			//successfully called sports provider service
-			else {
-				//format the players data for the response
-				data = Player.parsePlayers(response);
-				callback(null, data);
-			}			
-		});
-		console.log('>> getPlayers');
+					//format the players data for the response
+					data = Player.parsePlayers(response);
+					callback(null, data);
+				}			
+			});
+			console.log('>> getPlayers');
+		}
 	}
 
 	/**
@@ -95,11 +126,11 @@ module.exports = function (Player) {
 				var team = playerObj.player[0][5].editorial_team_full_name || playerObj.player[0][6].editorial_team_full_name || playerObj.player[0][7].editorial_team_full_name;
 				team = Player.filterTeamLogo(team); //fix team names 
 
-				var position = playerObj.player[0][8].display_position || playerObj.player[0][7].display_position;
+				var position = playerObj.player[0][9].display_position || playerObj.player[0][8].display_position || playerObj.player[0][7].display_position || '';
 				var picture = playerObj.player[0][9].image_url || playerObj.player[0][10].image_url || playerObj.player[0][11].image_url;
 
 				var player = {
-					"id" : i+1,
+					"playerId" : i+1,
 					"name": playerObj.player[0][2].name.full,
 					"sport" : sport,
 					"league" : league,

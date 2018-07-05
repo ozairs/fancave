@@ -1,0 +1,40 @@
+apiVersion: config.istio.io/v1alpha2
+kind: quota
+metadata:
+  name: requestcount
+  namespace: istio-system
+spec:
+  dimensions:
+    source: source.labels["app"] | source.service | "unknown"
+    destination: destination.labels["app"] | destination.service | "unknown"
+---
+apiVersion: config.istio.io/v1alpha2
+kind: memquota
+metadata:
+  name: quotahandler
+  namespace: istio-system
+spec:
+  quotas:
+  - name: requestcount.quota.istio-system
+    # default rate limit is 5000qps
+    maxAmount: 5000
+    validDuration: 1s
+    # The first matching override is applied.
+    # A requestcount instance is checked against override dimensions.
+    overrides:
+    - dimensions:
+        source: istio-ingress
+        destination: fancave-players
+      maxAmount: 5
+      validDuration: 10s
+---
+apiVersion: config.istio.io/v1alpha2
+kind: rule
+metadata:
+  name: quota
+  namespace: istio-system
+spec:
+  actions:
+  - handler: quotahandler.memquota
+    instances:
+    - requestcount.quota

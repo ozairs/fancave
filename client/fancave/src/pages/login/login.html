@@ -1,0 +1,82 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title style="text-align: center">
+      Fan Cave
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content class="background">
+  
+  <div >
+    <h2>
+      <img src="assets/img/fancave-logo-64.png" alt="logo" style=" display: block; margin-left: auto; margin-right: auto;"
+        (click)="home()">
+    </h2>
+  </div>
+  <form [formGroup]="loginForm" novalidate>
+    <ion-list >
+      <ion-item class="background" *ngIf="loginPage.error != ''">
+        <p ion-text color="danger">
+          {{loginPage.error}}
+        </p>
+      </ion-item>
+      <ion-item>
+        <ion-label floating color="primary">Username</ion-label>
+        <ion-input formControlName="username" type="text" spellcheck="false" autocapitalize="off">
+        </ion-input>
+      </ion-item>
+      <ion-item class="background" *ngIf="!loginForm.controls.username.valid  && loginForm.controls.username.dirty">
+        <p ion-text color="danger" >
+          Username is required.
+        </p>
+      </ion-item>
+
+      <ion-item>
+        <ion-label floating color="primary">Password</ion-label>
+        <ion-input formControlName="password" type="password" (ionFocus)="loginPage.error = '';">
+        </ion-input>
+      </ion-item>
+      <p ion-text color="danger" *ngIf="!loginForm.controls.password.valid  && loginForm.controls.password.dirty">
+        Password is required.
+      </p>
+    </ion-list>
+
+    <ion-row responsive-sm>
+      <ion-col col-auto></ion-col>
+      <ion-col>
+        <button ion-button (click)="login()" type="submit" block [disabled]="!loginForm.valid">Login</button>
+      </ion-col>
+      <ion-col>
+        <button ion-button block color="danger" (click)="googleLogin()">
+          <ion-icon name="logo-googleplus"></ion-icon>
+          Login with Google
+        </button>
+      </ion-col>
+      <ion-col col-auto></ion-col>
+    </ion-row>
+    <ion-row responsive-sm>
+      <ion-col>
+          <ion-label style="text-decoration: none;"><a (click)="resetPassword()">&nbsp;&nbsp;&nbsp;Forgot Password</a></ion-label>
+      </ion-col>
+      <ion-col></ion-col>
+      <ion-col>
+        <ion-label style="text-decoration: none;">Don't have an account? <a (click)="signup()">Signup</a></ion-label>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <ion-list radio-group>
+          <ion-item class="background">
+            <ion-label style="text-decoration: none;">Remember Me</ion-label>
+            <ion-toggle formControlName="rememberMe">Something</ion-toggle>
+          </ion-item>
+        </ion-list>
+      </ion-col>
+    </ion-row>
+  </form>
+</ion-content>
+
+<!--
+<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+-->

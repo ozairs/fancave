@@ -1,0 +1,40 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  labels:
+    app: ui
+  name: fancave-ui
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: ui
+    spec:
+      containers:
+      - image: ozairs/fancave-ui:v1
+        name: fancave-ui
+        ports:
+        - containerPort: 80
+        volumeMounts:
+        - mountPath: /etc/nginx/sites-enabled/fancave.conf
+          subPath: fancave.conf
+          name: fancave-ui-config
+        env:
+          - name: PROTOCOL
+            value: http
+          - name: TEAMS_SERVER
+            value: fancave-teams:3080
+          - name: NEWS_SERVER
+            value: fancave-news:3080
+          - name: PLAYERS_SERVER
+            value: fancave-players:3080
+        livenessProbe:
+          tcpSocket:
+            port: 80
+          initialDelaySeconds: 10
+          timeoutSeconds: 1
+      volumes:
+        - name: fancave-ui-config
+          configMap:
+            name: fancave-ui-configmap

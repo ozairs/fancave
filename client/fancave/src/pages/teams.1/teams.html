@@ -1,0 +1,101 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>
+      Teams
+    </ion-title>
+    <ion-buttons end>
+        <button ion-button icon-only (click)="global.presentPopover($event)">
+          <div *ngIf="this.global.getLogin()">{{this.global.getUsername()}}&nbsp;&nbsp;</div>
+          <ion-icon name="contact" isActive="true"></ion-icon>
+        </button>
+      </ion-buttons>
+  </ion-navbar>
+  <ion-grid class="button-group" sticky>
+      <ion-row>
+        <ion-col>
+          <button ion-button icon-start block color="primary" [outline]="this.segment != 'nhl'" (click)="this.onSegmentChange('nhl');">
+              <ion-icon name="icon-ci-hockey"></ion-icon>
+              NHL
+            </button>
+        </ion-col>
+        <ion-col>
+          <button ion-button icon-start block [outline]="this.segment != 'nba'" (click)="this.onSegmentChange('nba');">
+              <ion-icon name='basketball' is-active="false"></ion-icon>
+              NBA
+            </button>
+        </ion-col>
+        <ion-col>
+          <button ion-button icon-start block [outline]="this.segment != 'mlb'" (click)="this.onSegmentChange('mlb');">
+                <ion-icon name='baseball' is-active="false"></ion-icon>
+                MLB
+              </button>
+        </ion-col>
+        <ion-col>
+          <button ion-button icon-start block [outline]="this.segment != 'nfl'" (click)="this.onSegmentChange('nfl');">
+                <ion-icon name='american-football' is-active="false"></ion-icon>
+                NFL
+          </button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+</ion-header>
+
+<ion-content [hidden]="!list_segment">
+  <ion-list>
+    <ion-item-group *ngFor="let team of teams; let curIndex = index">
+      <ion-item-divider *ngIf="customHeader(team, curIndex)" color="dark" sticky>
+        <h2>{{team.name.charAt(0)}}</h2>
+      </ion-item-divider>
+      <ion-card color="light">
+        <ion-card-content style="padding: 0;">
+          <ion-list no-lines>
+            <ion-item detail-push color="light">
+              <ion-thumbnail item-left>
+                <img [src]="team.logo" height="64" height="64">
+              </ion-thumbnail>
+              <h2>{{team.name}}</h2>
+              <p style="font-size: smaller">{{team.city}}</p>
+              <button style="padding: 0;" ion-button clear small color="primary" icon-start (click)="global.openLink(team.homepage)">
+                  <ion-icon name="home"></ion-icon>
+                  &nbsp;&nbsp;Home Page
+              </button>
+              <br/>
+              <button style="padding: 0;" ion-button clear color="primary" icon-start (click)="getScores( this.segment, team.name, this.today )">
+                <ion-icon *ngIf="this.segment == 'mlb'" name="baseball"></ion-icon>
+                <ion-icon *ngIf="this.segment == 'nhl'" name="icon-ci-hockey"></ion-icon>
+                <ion-icon *ngIf="this.segment == 'nba'" name="basketball"></ion-icon>
+                <ion-icon *ngIf="this.segment == 'nfl'" name="american-football"></ion-icon>&nbsp;&nbsp;Scores
+              </button>
+            </ion-item>
+          </ion-list>
+        </ion-card-content>
+      </ion-card>
+    </ion-item-group>
+  </ion-list>
+</ion-content>
+
+
+<ion-content class="map-page" [hidden]="list_segment">
+    <div style="height: 100%; width: 100%" #mapCanvas id="map_canvas"></div>
+</ion-content>
+
+<ion-footer>
+  <ion-toolbar border-top border-bottom>
+    <ion-grid class="button-group">
+      <ion-row>
+        <ion-col>
+          <button name="list" ion-button icon-start block color="primary" [outline]="!list_segment" (click)="this.list_segment = !this.list_segment; this.onViewChange();">
+            <ion-icon name='list'></ion-icon>
+            List
+          </button>
+        </ion-col>
+        <ion-col>
+          <button name="map" ion-button icon-start block [outline]="list_segment" (click)="this.list_segment = !this.list_segment; this.onViewChange();">
+            <ion-icon name='map' is-active="false"></ion-icon>
+            Map
+          </button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </ion-toolbar>
+</ion-footer>

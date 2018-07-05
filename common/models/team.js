@@ -25,6 +25,7 @@ module.exports = function (Team) {
 							//return static data unable when news service is unavailable
 							console.log("returning data file file");
 							var data = require('../../server/sample-data/scores.json')[league];
+							if (!data) data = [];
 							return callback(null, data);
 						}
 						// return callback(err.message); //error making request
@@ -43,10 +44,12 @@ module.exports = function (Team) {
 								//return static data unable when news service is unavailable
 								console.log("returning data file file");
 								var data = require('../../server/sample-data/scores.json')[league];
+								if (!data) data = [];
 								return callback(null, data);
 							}
 							//format the scores
 							data = Team.parseScores(league, response);
+							if (!data) data = [];
 							callback(null, data);
 						});
 					});
@@ -54,15 +57,18 @@ module.exports = function (Team) {
 				else {
 					console.log("Unable to call scores service with error %s", err);
 					//return static data unable when news service is unavailable
-					console.log("returning data file file");
+					console.log("returning data file");
 					var data = require('../../server/sample-data/scores.json')[league];
+					if (!data) data = [];
 					return callback(null, data);
 				}
 			}
 			//successfully called news provider service
 			else {
 				data = Team.parseScores(league, response);
-				callback(null, data);
+				if (!data) data = [];
+				console.log('>> getScores');
+				return callback(null, data);
 			}
 			console.log('>> getScores');
 		});
@@ -75,11 +81,10 @@ module.exports = function (Team) {
 			let data = [];
 			//check for valid response
 			if (response.query.results) {
-				console.log("Successfully obtained players data.");
 
 				var scores = response.query.results.results['sports-content'].schedule['sports-event'];
 
-				if (!scores) return callback('No Games');
+				if (!scores) return [];
 
 				//depending on the data set, verify that an error is returned
 				if (!(scores instanceof Array)) {
@@ -179,6 +184,7 @@ module.exports = function (Team) {
 	Team.getTeams = function (league, callback) {
 		console.log('<< getTeams')
 		var data = require('../../server/sample-data/teams.json')[league];
+		if (!data) data = [];
 		console.log('>> getTeams');
 		return callback(null, data);
 	}

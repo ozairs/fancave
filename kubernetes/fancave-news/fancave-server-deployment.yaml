@@ -1,0 +1,37 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  labels:
+    app: news
+  name: fancave-news
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: news
+    spec:
+      containers:
+      - image: ozairs/fancave-server:v1
+        name: fancave-news
+        ports:
+        - containerPort: 3080
+        volumeMounts:
+        - mountPath: /usr/src/app/server/datasources.json
+          subPath: datasources.json
+          name: fancave-ds
+        - mountPath: /usr/src/app/server/model-config.json
+          subPath: model-config.json
+          name: fancave-model
+        livenessProbe:
+          tcpSocket:
+            port: 3080
+          initialDelaySeconds: 10
+          periodSeconds: 15
+      volumes:
+      - name: fancave-ds
+        configMap:
+          name: fancave-ds-news-config
+      - name: fancave-model
+        configMap:
+          name: fancave-model-news-config

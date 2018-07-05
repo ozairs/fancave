@@ -1,0 +1,7 @@
+<ion-list *ngIf="this.isLogin">
+	<button name="profile" ion-item (click)="profile()">Profile</button>
+  <button name="logout" ion-item (click)="logout()">Logout</button>
+</ion-list>
+<ion-list *ngIf="!this.isLogin">
+  <button name="login" ion-item (click)="login()">Login</button>
+</ion-list>

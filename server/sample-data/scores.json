@@ -155,5 +155,17 @@
 			"status": "Bot 4",
 			"url": "http://sports.yahoo.com/mlb/arizona-diamondbacks-los-angeles-dodgers-371006119/"
 		}
+	],
+	"nfl" : [
+		{
+			"away": "Philadelphia",
+			"awayScore": "41",
+			"awayLogo": "assets/img/nfl/philadelphia",
+			"home": "New England",
+			"homeScore": "33",
+			"homeLogo": "assets/img/nfl/new england",
+			"status": "Final",
+			"url": "http://sports.yahoo.com/nfl/philadelphia-eagles-new-england-patriots-20180204017/"
+		}
 	]
 }

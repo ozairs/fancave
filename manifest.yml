@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: megafanz
-  host: megafanz
+  name: fancave
+  host: fancave
   disk_quota: 1024M

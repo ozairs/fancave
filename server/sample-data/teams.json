@@ -8,6 +8,7 @@
 		},
 		"teams": [
 			{
+				"teamId": 1,
 				"lat": 43.6433,
 				"long": -79.3791,
 				"name": "Toronto Raptors",
@@ -17,6 +18,7 @@
 				"homepage": "http://www.nba.com/raptors"
 			},
 			{
+				"teamId": 2,
 				"lat": 25.7814,
 				"long": -80.1878,
 				"name": "Miami Heat",
@@ -26,6 +28,7 @@
 				"homepage": "http://www.nba.com/heat"
 			},
 			{
+				"teamId": 3,
 				"lat": 32.7904,
 				"long": -96.8103,
 				"name": "Dallas Mavericks",
@@ -35,6 +38,7 @@
 				"homepage": "http://www.nba.com/mavericks"
 			},
 			{
+				"teamId": 4,
 				"lat": 28.5392,
 				"long": -81.3836,
 				"name": "Orlando Magic",
@@ -44,6 +48,7 @@
 				"homepage": "http://www.nba.com/magic"
 			},
 			{
+				"teamId": 5,
 				"lat": 29.4269,
 				"long": -98.4375,
 				"name": "San Antonio Spurs",
@@ -53,6 +58,7 @@
 				"homepage": "http://www.nba.com/spurs"
 			},
 			{
+				"teamId": 6,
 				"lat": 39.7639,
 				"long": -86.1556,
 				"name": "Indiana Pacers",
@@ -62,6 +68,7 @@
 				"homepage": "http://www.nba.com/pacers"
 			},
 			{
+				"teamId": 7,
 				"lat": 40.6827,
 				"long": -73.9747,
 				"name": "Brooklyn Nets",
@@ -71,6 +78,7 @@
 				"homepage": "http://www.nba.com/nets"
 			},
 			{
+				"teamId": 8,
 				"lat": 43.0436,
 				"long": -87.9168,
 				"name": "Milwaukee Bucks",
@@ -80,6 +88,7 @@
 				"homepage": "http://www.nba.com/bucks"
 			},
 			{
+				"teamId": 9,
 				"lat": 38.898,
 				"long": -77.021,
 				"name": "Washington Wizards",
@@ -89,6 +98,7 @@
 				"homepage": "http://www.nba.com/wizards"
 			},
 			{
+				"teamId": 10,
 				"lat": 35.4633,
 				"long": -97.515,
 				"name": "Oklahoma City Thunder",
@@ -98,6 +108,7 @@
 				"homepage": "http://www.nba.com/thunder"
 			},
 			{
+				"teamId": 11,
 				"lat": 35.1383,
 				"long": -90.0506,
 				"name": "Memphis Grizzlies",
@@ -107,6 +118,7 @@
 				"homepage": "http://www.nba.com/grizzlies"
 			},
 			{
+				"teamId": 12,
 				"lat": 38.6491,
 				"long": -121.518,
 				"name": "Sacramento Kings",
@@ -116,6 +128,7 @@
 				"homepage": "http://www.nba.com/kings"
 			},
 			{
+				"teamId": 13,
 				"lat": 42.6969,
 				"long": -83.2456,
 				"name": "Detroit Pistons",
@@ -125,6 +138,7 @@
 				"homepage": "http://www.nba.com/pistons"
 			},
 			{
+				"teamId": 14,
 				"lat": 40.7505,
 				"long": -73.9936,
 				"name": "New York Knicks",
@@ -134,6 +148,7 @@
 				"homepage": "http://www.nba.com/knicks"
 			},
 			{
+				"teamId": 15,
 				"lat": 45.5314,
 				"long": -122.667,
 				"name": "Portland Trail Blazers",
@@ -143,6 +158,7 @@
 				"homepage": "http://www.nba.com/blazers"
 			},
 			{
+				"teamId": 16,
 				"lat": 37.7503,
 				"long": -122.203,
 				"name": "Golden State Warriors",
@@ -152,6 +168,7 @@
 				"homepage": "http://www.nba.com/warriors"
 			},
 			{
+				"teamId": 17,
 				"lat": 39.7486,
 				"long": -105.008,
 				"name": "Denver Nuggets",
@@ -161,6 +178,7 @@
 				"homepage": "http://www.nba.com/nuggets"
 			},
 			{
+				"teamId": 18,
 				"lat": 33.7572,
 				"long": -84.3963,
 				"name": "Atlanta Hawks",
@@ -170,6 +188,7 @@
 				"homepage": "http://www.nba.com/hawks"
 			},
 			{
+				"teamId": 19,
 				"lat": 41.4967,
 				"long": -81.6881,
 				"name": "Cleveland Cavaliers",
@@ -179,6 +198,7 @@
 				"homepage": "http://www.nba.com/cavs"
 			},
 			{
+				"teamId": 20,
 				"lat": 29.9489,
 				"long": -90.0822,
 				"name": "New Orleans Pelicans",
@@ -188,6 +208,7 @@
 				"homepage": "http://www.nba.com/pelicans"
 			},
 			{
+				"teamId": 21,
 				"lat": 35.2245,
 				"long": -80.841,
 				"name": "Charlotte Hornets",
@@ -197,6 +218,7 @@
 				"homepage": "http://www.nba.com/hornets"
 			},
 			{
+				"teamId": 22,
 				"lat": 34.043,
 				"long": -118.267,
 				"name": "Los Angeles Lakers",
@@ -206,6 +228,7 @@
 				"homepage": "http://www.nba.com/lakers"
 			},
 			{
+				"teamId": 23,
 				"lat": 34.043,
 				"long": -118.267,
 				"name": "Los Angeles Clippers",
@@ -215,6 +238,7 @@
 				"homepage": "http://www.nba.com/clippers"
 			},
 			{
+				"teamId": 24,
 				"lat": 33.4457,
 				"long": -112.071,
 				"name": "Phoenix Suns",
@@ -224,6 +248,7 @@
 				"homepage": "http://www.nba.com/suns"
 			},
 			{
+				"teamId": 25,
 				"lat": 44.9794,
 				"long": -93.2761,
 				"name": "Minnesota Timberwolves",
@@ -233,6 +258,7 @@
 				"homepage": "http://www.nba.com/timberwolves"
 			},
 			{
+				"teamId": 26,
 				"lat": 42.3663,
 				"long": -71.0623,
 				"name": "Boston Celtics",
@@ -242,6 +268,7 @@
 				"homepage": "http://www.nba.com/celtics"
 			},
 			{
+				"teamId": 27,
 				"lat": 29.7508,
 				"long": -95.3622,
 				"name": "Houston Rockets",
@@ -251,6 +278,7 @@
 				"homepage": "http://www.nba.com/rockets"
 			},
 			{
+				"teamId": 28,
 				"lat": 41.8806,
 				"long": -87.6741,
 				"name": "Chicago Bulls",
@@ -260,6 +288,7 @@
 				"homepage": "http://www.nba.com/bulls"
 			},
 			{
+				"teamId": 29,
 				"lat": 40.7683,
 				"long": -111.901,
 				"name": "Utah Jazz",
@@ -269,6 +298,7 @@
 				"homepage": "http://www.nba.com/jazz"
 			},
 			{
+				"teamId": 30,
 				"lat": 39.9011,
 				"long": -75.1717,
 				"name": "Philadelphia 76ers",
@@ -288,15 +318,17 @@
 		},
 		"teams": [
 			{
+				"teamId": 1,
 				"lat": 43.6433,
 				"long": -79.3792,
 				"name": "Toronto Maple Leafs",
 				"arena": "Air Canada Center",
-				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ACC_on_Bay_St_and_CN_Tower.JPG/120px-ACC_on_Bay_St_and_CN_Tower.JPG",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Air_Canada_Centre_and_CN_Tower_from_Bay_St.jpg",
 				"city": "Toronto, Ontario",
 				"homepage": "http://www.nhl.com/mapleleafs"
 			},
 			{
+				"teamId": 2,
 				"lat": 27.9428,
 				"long": -82.4519,
 				"name": "Tampa Bay Lightning",
@@ -306,6 +338,7 @@
 				"homepage": "http://www.nhl.com/lightning"
 			},
 			{
+				"teamId": 3,
 				"lat": 32.7906,
 				"long": -96.8103,
 				"name": "Dallas Stars",
@@ -315,6 +348,7 @@
 				"homepage": "http://www.nhl.com/stars"
 			},
 			{
+				"teamId": 4,
 				"lat": 26.1583,
 				"long": -80.3256,
 				"name": "Florida Panthers",
@@ -324,6 +358,7 @@
 				"homepage": "http://www.nhl.com/panthers"
 			},
 			{
+				"teamId": 5,
 				"lat": 40.7228,
 				"long": -73.5906,
 				"name": "New York Islanders",
@@ -333,6 +368,7 @@
 				"homepage": "http://www.nhl.com/islanders"
 			},
 			{
+				"teamId": 6,
 				"lat": 45.4961,
 				"long": -73.5694,
 				"name": "Montreal Canadiens",
@@ -342,6 +378,7 @@
 				"homepage": "http://www.nhl.com/canadiens"
 			},
 			{
+				"teamId": 7,
 				"lat": 49.8928,
 				"long": -97.1436,
 				"name": "Winnipeg Jets",
@@ -350,6 +387,7 @@
 				"city": "Winnipeg, Manitoba"
 			},
 			{
+				"teamId": 8,
 				"lat": 36.1592,
 				"long": -86.7786,
 				"name": "Nashville Predators",
@@ -359,6 +397,7 @@
 				"homepage": "http://www.nhl.com/predators"
 			},
 			{
+				"teamId": 9,
 				"lat": 45.2969,
 				"long": -75.9272,
 				"name": "Ottawa Senators",
@@ -368,6 +407,7 @@
 				"homepage": "http://www.nhl.com/senators"
 			},
 			{
+				"teamId": 10,
 				"lat": 38.8981,
 				"long": -77.0208,
 				"name": "Washington Capitals",
@@ -377,6 +417,7 @@
 				"homepage": "http://www.nhl.com/capitals"
 			},
 			{
+				"teamId": 11,
 				"lat": 33.5319,
 				"long": -112.261,
 				"name": "Arizona Coyotes",
@@ -386,6 +427,7 @@
 				"homepage": "http://www.nhl.com/coyotes"
 			},
 			{
+				"teamId": 12,
 				"lat": 33.8078,
 				"long": -117.877,
 				"name": "Anaheim Ducks",
@@ -395,6 +437,7 @@
 				"homepage": "http://www.nhl.com/ducks"
 			},
 			{
+				"teamId": 13,
 				"lat": 42.875,
 				"long": -78.8764,
 				"name": "Buffalo Sabres",
@@ -404,6 +447,7 @@
 				"homepage": "http://www.nhl.com/sabres"
 			},
 			{
+				"teamId": 14,
 				"lat": 42.3253,
 				"long": -83.0514,
 				"name": "Detroit Red Wings",
@@ -413,6 +457,7 @@
 				"homepage": "http://www.nhl.com/redwings"
 			},
 			{
+				"teamId": 15,
 				"lat": 40.7506,
 				"long": -73.9936,
 				"name": "New York Rangers",
@@ -422,6 +467,7 @@
 				"homepage": "http://www.nhl.com/rangers"
 			},
 			{
+				"teamId": 16,
 				"lat": 39.9693,
 				"long": -83.0061,
 				"name": "Columbus Blue Jackets",
@@ -431,6 +477,7 @@
 				"homepage": "http://www.nhl.com/bluejackets"
 			},
 			{
+				"teamId": 17,
 				"lat": 39.7486,
 				"long": -105.007,
 				"name": "Colorado Avalanche",
@@ -440,6 +487,7 @@
 				"homepage": "http://www.nhl.com/avalanche"
 			},
 			{
+				"teamId": 18,
 				"lat": 35.8033,
 				"long": -78.7219,
 				"name": "Carolina Hurricanes",
@@ -449,6 +497,7 @@
 				"homepage": "http://www.nhl.com/hurricanes"
 			},
 			{
+				"teamId": 19,
 				"lat": 40.4394,
 				"long": -79.9892,
 				"name": "Pittsburgh Penguins",
@@ -458,6 +507,7 @@
 				"homepage": "http://www.nhl.com/penguins"
 			},
 			{
+				"teamId": 20,
 				"lat": 40.7336,
 				"long": -74.1711,
 				"name": "New Jersey Devils",
@@ -467,6 +517,7 @@
 				"homepage": "http://www.nhl.com/devils"
 			},
 			{
+				"teamId": 21,
 				"lat": 49.2778,
 				"long": -123.109,
 				"name": "Vancouver Canucks",
@@ -476,6 +527,7 @@
 				"homepage": "http://www.nhl.com/canucks"
 			},
 			{
+				"teamId": 22,
 				"lat": 53.5714,
 				"long": -113.456,
 				"name": "Edmonton Oilers",
@@ -485,6 +537,7 @@
 				"homepage": "http://www.nhl.com/oilers"
 			},
 			{
+				"teamId": 23,
 				"lat": 51.0375,
 				"long": -114.052,
 				"name": "Calgary Flames",
@@ -494,6 +547,7 @@
 				"homepage": "http://www.nhl.com/flames"
 			},
 			{
+				"teamId": 24,
 				"lat": 37.3328,
 				"long": -121.901,
 				"name": "San Jose Sharks",
@@ -503,6 +557,7 @@
 				"homepage": "http://www.nhl.com/sharks"
 			},
 			{
+				"teamId": 25,
 				"lat": 38.6267,
 				"long": -90.2025,
 				"name": "St Louis Blues",
@@ -512,6 +567,7 @@
 				"homepage": "http://www.nhl.com/blues"
 			},
 			{
+				"teamId": 26,
 				"lat": 34.0431,
 				"long": -118.267,
 				"name": "Los Angeles Kings",
@@ -521,6 +577,7 @@
 				"homepage": "http://www.nhl.com/kings"
 			},
 			{
+				"teamId": 27,
 				"lat": 42.3663,
 				"long": -71.0622,
 				"name": "Boston Bruins",
@@ -530,6 +587,7 @@
 				"homepage": "http://www.nhl.com/bruins"
 			},
 			{
+				"teamId": 28,
 				"lat": 36.102376,
 				"long": -115.177572,
 				"name": "Vegas Golden Knights",
@@ -539,6 +597,7 @@
 				"homepage": "http://www.nhl.com/goldenknights"
 			},
 			{
+				"teamId": 29,
 				"lat": 41.8806,
 				"long": -87.6742,
 				"name": "Chicago Blackhawks",
@@ -548,6 +607,7 @@
 				"homepage": "http://www.nhl.com/blackhawks"
 			},
 			{
+				"teamId": 30,
 				"lat": 39.9011,
 				"long": -75.1719,
 				"name": "Philadelphia Flyers",
@@ -558,6 +618,7 @@
 				
 			},
 			{
+				"teamId": 31,
 				"lat": 44.9447,
 				"long": -93.1011,
 				"name": "Minnesota Wild",
@@ -577,6 +638,7 @@
 		},
 		"teams": [
 			{
+				"teamId": 1,
 				"name": "Los Angeles Angels of Anaheim",
 				"arena": "Angel Stadium",
 				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Angel_Stadium_of_Anaheim.jpg/200px-Angel_Stadium_of_Anaheim.jpg",
@@ -586,6 +648,7 @@
 				"homepage": "http://www.mlb.com/angels"
 			},
 			{
+				"teamId": 2,
 				"name": "San Francisco Giants",
 				"arena": "AT&T Park",
 				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/AT%26T_Park_July_24%2C_2016.jpg/200px-AT%26T_Park_July_24%2C_2016.jpg",
@@ -595,6 +658,7 @@
 				"homepage": "http://www.mlb.com/giants"
 			},
 			{
+				"teamId": 3,
 				"lat": 39.7559,
 				"long": -104.994,
 				"name": "Colorado Rockies",
@@ -604,6 +668,7 @@
 				"homepage": "http://www.mlb.com/rockies"
 			},
 			{
+				"teamId": 4,
 				"lat": 38.6223,
 				"long": -90.1939,
 				"name": "St Louis Cardinals",
@@ -613,6 +678,7 @@
 				"homepage": "http://www.mlb.com/cardinals"
 			},
 			{
+				"teamId": 5,
 				"lat": 33.4455,
 				"long": -112.067,
 				"name": "Arizona Diamondbacks",
@@ -622,6 +688,7 @@
 				"homepage": "http://www.mlb.com/dbacks"
 			},
 			{
+				"teamId": 6,
 				"lat": 34.0727,
 				"long": -118.241,
 				"name": "Los Angeles Dodgers",
@@ -631,6 +698,7 @@
 				"homepage": "http://www.mlb.com/dodgers"
 			},
 			{
+				"teamId": 7,
 				"lat": 40.7563,
 				"long": -73.846,
 				"name": "New York Mets",
@@ -640,6 +708,7 @@
 				"homepage": "http://www.mlb.com/mets"
 			},
 			{
+				"teamId": 8,
 				"lat": 39.9055,
 				"long": -75.1666,
 				"name": "Philadelphia Phillies",
@@ -649,6 +718,7 @@
 				"homepage": "http://www.mlb.com/phillies"
 			},
 			{
+				"teamId": 9,
 				"lat": 42.3392,
 				"long": -83.0495,
 				"name": "Detroit Tigers",
@@ -658,6 +728,7 @@
 				"homepage": "http://www.mlb.com/tigers"
 			},
 			{
+				"teamId": 10,
 				"lat": 42.3466,
 				"long": -71.097,
 				"name": "Boston Red Sox",
@@ -667,6 +738,7 @@
 				"homepage": "http://www.mlb.com/redsox"
 			},
 			{
+				"teamId": 11,
 				"lat": 32.7511,
 				"long": -97.0825,
 				"name": "Texas Rangers",
@@ -676,6 +748,7 @@
 				"homepage": "http://www.mlb.com/rangers"
 			},
 			{
+				"teamId": 12,
 				"lat": 39.0979,
 				"long": -84.5082,
 				"name": "Cincinnati Reds",
@@ -685,6 +758,7 @@
 				"homepage": "http://www.mlb.com/reds"
 			},
 			{
+				"teamId": 13,
 				"lat": 39.0511,
 				"long": -94.4811,
 				"name": "Kansas City Royals",
@@ -694,6 +768,7 @@
 				"homepage": "http://www.mlb.com/royals"
 			},
 			{
+				"teamId": 14,
 				"lat": 25.7787,
 				"long": -80.2203,
 				"name": "Miami Marlins",
@@ -703,6 +778,7 @@
 				"homepage": "http://www.mlb.com/marlins"
 			},
 			{
+				"teamId": 15,
 				"lat": 43.028,
 				"long": -87.9712,
 				"name": "Milwaukee Brewers",
@@ -712,6 +788,7 @@
 				"homepage": "http://www.mlb.com/brewers"
 			},
 			{
+				"teamId": 16,
 				"lat": 29.757,
 				"long": -95.3548,
 				"name": "Houston Astros",
@@ -721,6 +798,7 @@
 				"homepage": "http://www.mlb.com/astros"
 			},
 			{
+				"teamId": 17,
 				"lat": 38.873,
 				"long": -77.0075,
 				"name": "Washington Nationals",
@@ -730,6 +808,7 @@
 				"homepage": "http://www.mlb.com/nationals"
 			},
 			{
+				"teamId": 18,
 				"lat": 37.7516,
 				"long": -122.201,
 				"name": "Oakland Athletics",
@@ -739,6 +818,7 @@
 				"homepage": "http://www.mlb.com/athletics"
 			},
 			{
+				"teamId": 19,
 				"lat": 39.284,
 				"long": -76.6216,
 				"name": "Baltimore Orioles",
@@ -748,6 +828,7 @@
 				"homepage": "http://www.mlb.com/orioles"
 			},
 			{
+				"teamId": 20,
 				"lat": 32.7077,
 				"long": -117.157,
 				"name": "San Diego Padres",
@@ -757,6 +838,7 @@
 				"homepage": "http://www.mlb.com/padres"
 			},
 			{
+				"teamId": 21,
 				"lat": 40.4473,
 				"long": -80.0068,
 				"name": "Pittsburgh Pirates",
@@ -766,6 +848,7 @@
 				"homepage": "http://www.mlb.com/pirates"
 			},
 			{
+				"teamId": 22,
 				"lat": 41.4962,
 				"long": -81.6852,
 				"name": "Cleveland Indians",
@@ -775,6 +858,7 @@
 				"homepage": "http://www.mlb.com/indians"
 			},
 			{
+				"teamId": 23,
 				"lat": 43.6411,
 				"long": -79.3897,
 				"name": "Toronto Blue Jays",
@@ -784,6 +868,7 @@
 				"homepage": "http://www.mlb.com/bluejays"
 			},
 			{
+				"teamId": 24,
 				"lat": 47.5914,
 				"long": -122.332,
 				"name": "Seattle Mariners",
@@ -793,6 +878,7 @@
 				"homepage": "http://www.mlb.com/mariners"
 			},
 			{
+				"teamId": 25,
 				"lat": 44.9817,
 				"long": -93.2773,
 				"name": "Minnesota Twins",
@@ -802,6 +888,7 @@
 				"homepage": "http://www.mlb.com/twins"
 			},
 			{
+				"teamId": 26,
 				"lat": 27.7682,
 				"long": -82.6535,
 				"name": "Tampa Bay Rays",
@@ -811,6 +898,7 @@
 				"homepage": "http://www.mlb.com/rays"
 			},
 			{
+				"teamId": 27,
 				"lat": 33.7348,
 				"long": -84.39,
 				"name": "Atlanta Braves",
@@ -820,6 +908,7 @@
 				"homepage": "http://www.mlb.com/braves"
 			},
 			{
+				"teamId": 28,
 				"lat": 41.8299,
 				"long": -87.6335,
 				"name": "Chicago White Sox",
@@ -829,6 +918,7 @@
 				"homepage": "http://www.mlb.com/whitesox"
 			},
 			{
+				"teamId": 29,
 				"lat": 41.9479,
 				"long": -87.6559,
 				"name": "Chicago Cubs",
@@ -838,6 +928,7 @@
 				"homepage": "http://www.mlb.com/cubs"
 			},
 			{
+				"teamId": 30,
 				"lat": 40.8293,
 				"long": -73.9277,
 				"name": "New York Yankees",
@@ -845,6 +936,336 @@
 				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Yankee_Stadium_upper_deck_2010.jpg/200px-Yankee_Stadium_upper_deck_2010.jpg",
 				"city": "Bronx, New York",
 				"homepage": "http://www.mlb.com/yankees"
+			}
+		]
+	},
+	"nfl": {
+		"metadata": {
+			"name": "National Football League",
+			"shortname": "nfl",
+			"logo": "assets/img/",
+			"homepage": "http://www.nfl.com/"
+		},
+		"teams": [
+			{
+				"teamId": 1,
+				"lat": 42.774,
+				"long": -78.787,
+				"name": "Buffalo Bills",
+				"arena": "New Era Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RWS2014.jpg/800px-RWS2014.jpg",
+				"city": "Orchard Park, New York",
+				"homepage": "http://www.buffalobills.com"
+			},
+			{
+				"teamId": 2,
+				"lat": 25.958,
+				"long": -80.2397,
+				"name": "Miami Dolphins",
+				"arena": "Hard Rock Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hard_Rock_Stadium.jpg/600px-Hard_Rock_Stadium.jpg",
+				"city": "Miami Gardens, Florida",
+				"homepage": "http://www.miamidolphins.com/"
+			},
+			{
+				"teamId": 3,
+				"lat": 42.91,
+				"long": -71.264,
+				"name": "New England Patriots",
+				"arena": "Gillette Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gillette_Stadium_%28Top_View%29.jpg/500px-Gillette_Stadium_%28Top_View%29.jpg",
+				"city": "Foxborough, Massachusetts",
+				"homepage": "http://www.patriots.com/"
+			},
+			{
+				"teamId": 4,
+				"lat": 40.814,
+				"long": -74.074,
+				"name": "New York Jets",
+				"arena": "MetLife Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Metlife_stadium_%28Aerial_view%29.jpg/600px-Metlife_stadium_%28Aerial_view%29.jpg",
+				"city": "East Rutherford, New Jersey",
+				"homepage": "http://www.newyorkjets.com/"
+			},
+			{
+				"teamId": 5,
+				"lat": 39.278,
+				"long": -76.623,
+				"name": "Baltimore Ravens",
+				"arena": "M&T Bank Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/M%26T_Bank_Stadium_DoD.jpg/600px-M%26T_Bank_Stadium_DoD.jpg",
+				"city": "Baltimore, Maryland",
+				"homepage": "http://www.baltimoreravens.com/"
+			},
+			{
+				"teamId": 6,
+				"lat": 39.095,
+				"long": -84.516,
+				"name": "Cincinnati Bengals",
+				"arena": "Paul Brown Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Paul_Brown_Stadium_interior_2017.jpg/440px-Paul_Brown_Stadium_interior_2017.jpg",
+				"city": "Cincinnati, Ohio",
+				"homepage": "http://www.bengals.com/"
+			},
+			{
+				"teamId": 7,
+				"lat": 41.506,
+				"long": -81.699,
+				"name": "Cleveland Browns",
+				"arena": "FirstEnergy Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/FirstEnergy_Stadium_panorama_2016.jpg/550px-FirstEnergy_Stadium_panorama_2016.jpg",
+				"city": "Cleveland, Ohio",
+				"homepage": "http://www.clevelandbrowns.com/"
+			},
+			{
+				"teamId": 8,
+				"lat": 40.447,
+				"long": -80.016,
+				"name": "Pittsburgh Steelers",
+				"arena": "Heinz Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heinz_Field_%282005%29.jpg/500px-Heinz_Field_%282005%29.jpg",
+				"city": "Pittsburgh, Pennsylvania",
+				"homepage": "http://www.steelers.com/"
+			},
+			{
+				"teamId": 9,
+				"lat": 29.685,
+				"long": -95.411,
+				"name": "Houston Texans",
+				"arena": "NRG Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Reliantstadium.jpg/600px-Reliantstadium.jpg",
+				"city": "Houston, Texas",
+				"homepage": "http://www.houstontexans.com/"
+			},
+			{
+				"teamId": 10,
+				"lat": 39.760,
+				"long": -86.164,
+				"name": "Indianapolis Colts",
+				"arena": "Lucas Oil Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Indianapolis-1872530.jpg/500px-Indianapolis-1872530.jpg",
+				"city": "Indianapolis, Indiana",
+				"homepage": "http://www.colts.com/"
+			},
+			{
+				"teamId": 11,
+				"lat": 30.324,
+				"long": -81.638,
+				"name": "Jacksonville Jaguars",
+				"arena": "TIAA Bank Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/EverBankField2014.jpg/600px-EverBankField2014.jpg",
+				"city": "Jacksonville, Florida",
+				"homepage": "http://www.jaguars.com/"
+			},
+			{
+				"teamId": 12,
+				"lat": 36.166,
+				"long": -86.771,
+				"name": "Tennessee Titans",
+				"arena": "Nissan Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/LP_Field_2009_crop.jpg/600px-LP_Field_2009_crop.jpg",
+				"city": "Nashville, Tennessee",
+				"homepage": "http://www.titansonline.com/"
+			},
+			{
+				"teamId": 13,
+				"lat": 39.744,
+				"long": -105.020,
+				"name": "Denver Broncos",
+				"arena": "Sports Authority Field at Mile High",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sports_Authority_Field_at_Mile_High_AFC_Championship_game.jpg/600px-Sports_Authority_Field_at_Mile_High_AFC_Championship_game.jpg",
+				"city": "Denver, Colorado",
+				"homepage": "http://www.denverbroncos.com/"
+			},
+			{
+				"teamId": 14,
+				"lat": 39.049,
+				"long": -94.484,
+				"name": "Kansas City Chiefs",
+				"arena": "Arrowhead Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_view_of_Arrowhead_Stadium_08-31-2013.jpg/560px-Aerial_view_of_Arrowhead_Stadium_08-31-2013.jpg",
+				"city": "Kansas City, Missouri",
+				"homepage": "http://www.chiefs.com/"
+			},
+			{
+				"teamId": 15,
+				"lat": 33.864,
+				"long": -118.261,
+				"name": "Los Angeles Chargers",
+				"arena": "StubHub Center",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/LA_Galaxy_vs_Houston_Dynamo-_Western_Conference_Finals_panorama.jpg/440px-LA_Galaxy_vs_Houston_Dynamo-_Western_Conference_Finals_panorama.jpg",
+				"city": "Carson, California",
+				"homepage": "http://www.chargers.com/"
+			},
+			{
+				"teamId": 16,
+				"lat": 37.752,
+				"long": -122.201,
+				"name": "Oakland Raiders",
+				"arena": "Oakland–Alameda County Coliseum",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/McAfee_Coliseum_%2815993646150%29.jpg/500px-McAfee_Coliseum_%2815993646150%29.jpg",
+				"city": "Oakland, California",
+				"homepage": "http://www.raiders.com/"
+			},
+			{
+				"teamId": 17,
+				"lat": 32.748,
+				"long": -97.093,
+				"name": "Dallas Cowboys",
+				"arena": "AT&T Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cowboys_Stadium_exterior%2C_2010_NBA_All-Star_Game.jpg/600px-Cowboys_Stadium_exterior%2C_2010_NBA_All-Star_Game.jpg",
+				"city": "Arlington, Texas",
+				"homepage": "http://www.dallascowboys.com/"
+			},
+			{
+				"teamId": 18,
+				"lat": 40.814,
+				"long": -74.074,
+				"name": "New York Giants",
+				"arena": "MetLife Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Metlife_stadium_%28Aerial_view%29.jpg/600px-Metlife_stadium_%28Aerial_view%29.jpg",
+				"city": "East Rutherford, New Jersey",
+				"homepage": "http://www.giants.com/"
+			},
+			{
+				"teamId": 19,
+				"lat": 39.901,
+				"long": -75.168,
+				"name": "Philadelphia Eagles",
+				"arena": "Lincoln Financial Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lincoln_Financial_Field_%28Aerial_view%29.jpg/600px-Lincoln_Financial_Field_%28Aerial_view%29.jpg",
+				"city": "Philadelphia, Pennsylvania",
+				"homepage": "http://www.philadelphiaeagles.com/"
+			},
+			{
+				"teamId": 20,
+				"lat": 38.908,
+				"long": -76.864,
+				"name": "Washington Redskins",
+				"arena": "FedExField",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/FedExField01.jpg/620px-FedExField01.jpg",
+				"city": "Landover, Maryland",
+				"homepage": "http://www.redskins.com/"
+			},
+			{
+				"teamId": 21,
+				"lat": 41.863,
+				"long": -87.617,
+				"name": "Chicago Bears",
+				"arena": "Soldier Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Soldier_field_2006.jpg",
+				"city": "Chicago, Illinois",
+				"homepage": "http://www.chicagobears.com/"
+			},
+			{
+				"teamId": 22,
+				"lat": 42.340,
+				"long": -83.046,
+				"name": "Detroit Lions",
+				"arena": "Ford Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ford-Field-September-10-2006.jpg/500px-Ford-Field-September-10-2006.jpg",
+				"city": "Detroit, Michigan",
+				"homepage": "http://www.detroitlions.com/"
+			},
+			{
+				"teamId": 23,
+				"lat": 44.501,
+				"long": -88.062,
+				"name": "Green Bay Packers",
+				"arena": "Lambeau Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lambeau_Field.jpg/540px-Lambeau_Field.jpg",
+				"city": "Green Bay, Wisconsin",
+				"homepage": "http://www.packers.com/"
+			},
+			{
+				"teamId": 24,
+				"lat": 44.974,
+				"long": -93.258,
+				"name": "Minnesota Vikings",
+				"arena": "U.S. Bank Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/US_Bank_Stadium_-_West_Facade.jpg/500px-US_Bank_Stadium_-_West_Facade.jpg",
+				"city": "Minneapolis, Minnesota",
+				"homepage": "http://www.vikings.com/"
+			},
+			{
+				"teamId": 25,
+				"lat": 33.755,
+				"long": -84.401,
+				"name": "Atlanta Falcons",
+				"arena": "Mercedes-Benz Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mercedes_Benz_Stadium_time_lapse_capture_2017-08-13.jpg/500px-Mercedes_Benz_Stadium_time_lapse_capture_2017-08-13.jpg",
+				"city": "Atlanta, Georgia",
+				"homepage": "http://www.atlantafalcons.com/"
+			},
+			{
+				"teamId": 26,
+				"lat": 35.226,
+				"long": -80.853,
+				"name": "Carolina Panthers",
+				"arena": "Bank of America Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BofAStadium2015.JPG/440px-BofAStadium2015.JPG",
+				"city": "Charlotte, North Carolina",
+				"homepage": "http://www.panthers.com/"
+			},
+			{
+				"teamId": 27,
+				"lat": 29.951,
+				"long": -90.081,
+				"name": "New Orleans Saints",
+				"arena": "Mercedes-Benz Superdome",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Superdome_from_Garage.jpg/440px-Superdome_from_Garage.jpg",
+				"city": "New Orleans, Louisiana",
+				"homepage": "http://www.neworleanssaints.com/"
+			},
+			{
+				"lat": 27.976,
+				"long": -82.503,
+				"teamId": 28,
+				"name": "Tampa Bay Buccaneers",
+				"arena": "Raymond James Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Raymond_James_Stadium_Pirate_Ship.jpg/440px-Raymond_James_Stadium_Pirate_Ship.jpg",
+				"city": "Tampa, Florida",
+				"homepage": "http://www.buccaneers.com/"
+			},
+			{
+				"teamId": 29,
+				"lat": 33.528,
+				"long": -112.263,
+				"name": "Arizona Cardinals",
+				"arena": "University of Phoenix Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cardinals_stadium_crop.jpg/600px-Cardinals_stadium_crop.jpg",
+				"city": "Glendale, Arizona",
+				"homepage": "http://www.azcardinals.com/"
+			},
+			{
+				"teamId": 30,
+				"lat": 34.014,
+				"long": -118.288,
+				"name": "Los Angeles Rams",
+				"arena": "Los Angeles Memorial Coliseum",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/11-11-06-LA-Coliseum-USC-UO.jpg/500px-11-11-06-LA-Coliseum-USC-UO.jpg",
+				"city": "Los Angeles, California",
+				"homepage": "http://www.therams.com/"
+			},
+			{
+				"teamId": 31,
+				"lat": 37.403,
+				"long": -121.970,
+				"name": "San Francisco 49ers",
+				"arena": "Levi's Stadium",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Broncos_vs_49ers_preseason_game_at_Levi%27s_Stadium.jpg/550px-Broncos_vs_49ers_preseason_game_at_Levi%27s_Stadium.jpg",
+				"city": "Santa Clara, California",
+				"homepage": "http://www.49ers.com/"
+			},
+			{
+				"teamId": 32,
+				"lat": 47.595,
+				"long": -122.332,
+				"name": "Seattle Seahawks",
+				"arena": "CenturyLink Field",
+				"arena_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Qwest_Field_North.jpg/600px-Qwest_Field_North.jpg",
+				"city": "Seattle, Washington",
+				"homepage": "http://www.seahawks.com/"
 			}
 		]
 	}

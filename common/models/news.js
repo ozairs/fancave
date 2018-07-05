@@ -27,6 +27,7 @@ module.exports = function (News) {
 							//return static data unable when news service is unavailable
 							console.log("returning data file file");
 							var data = require('../../server/sample-data/news.json')[league];
+							if (!data) data = [];
 							return callback(null, data);
 						}
 						//save the access and refresh token
@@ -43,10 +44,12 @@ module.exports = function (News) {
 								//return static data unable when news service is unavailable
 								console.log("returning data file file");
 								var data = require('../../server/sample-data/news.json')[league];
+								if (!data) data = [];
 								return callback(null, data);
 							}
 							//format the news articles for the response
 							data = News.parseNews(response);
+							if (!data) data = [];
 							callback(null, data);
 						});
 						
@@ -57,12 +60,14 @@ module.exports = function (News) {
 					console.log("Unable to call news service with error %s", err.message);
 					//return static data unable when news service is unavailable
 					var data = require('../../server/sample-data/news.json')[league];
+					if (!data) data = [];
 					return callback(null, data);
 				}
 			}
 			//successfully called news provider service
 			else {
 				data = News.parseNews(response);
+				if (!data) data = [];
 				callback(null, data);
 			}
 			

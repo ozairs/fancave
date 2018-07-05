@@ -1,6 +1,7 @@
 var async = require('async');
 var fs = require('fs');
 var path = require('path');
+var mongodb = require('mongodb').MongoClient;
 
 /**
  * sample script to populate a mongodb with data when starting
@@ -10,7 +11,7 @@ module.exports = function (app) {
 
 	//create all models
 	async.parallel({
-		// megafanz: async.apply(createModels),
+		fancave: async.apply(createModels),
 	}, function (err, results) {
 		if (err) throw err;
 	});
@@ -22,25 +23,34 @@ module.exports = function (app) {
 		//check if mongo datasource exists
 		var mongoDS = app.dataSources.mongo;	
 		if (mongoDS) {
-			mongoDS.automigrate('team', function (err) {
-			if (err) return cb(err);
-			//read data from file
+			console.log("using database")
+			var mongo_url = 'mongodb://' + mongoDS.settings.host + ':' + mongoDS.settings.port;
+			//connect to mongo database
+			mongodb.connect(mongo_url, function(err, client) {
+				if (err) {
+					console.log("Unable to connect to URL %s", mongo_url);
+					throw err;
+				}
+				var dbo = client.db(mongoDS.settings.database + mongoDS.settings.replicaSet);
+				//check if collection needs to be populated
+				dbo.collection("players").count(function (err, count) {
+					if (!err && count === 0) {
+						console.log("Populating database ...");
+						var players = require('../sample-data/players.json');
+						var mergedPlayers = players.nba.concat(players.nhl).concat(players.mlb).concat(players.nfl);
+
+						dbo.collection("players").insertMany(mergedPlayers, function(err, result) {
+							if (err) throw err;
+							console.log("successfully inserted %s items", result.insertedCount);
+						});
+					}
+					client.close();
+				});
 			});
 		}
 		//use in-memory datasource
 		else {
-			//remove existing entries
-			var fs = require('fs');
-			var database = '{}';
-			console.log("current path %s", require('path').resolve(__dirname, '../database.json'));
-			fs.writeFile(require('path').resolve(__dirname, '../database.json'), JSON.stringify(database, null, 4), function(err){
-				if (err) console.log("Unable to remove existing database."); //handle err, success
-				console.log('Successfully removed database entries.');
-			});
-
-			// app.models.Team.create(getData('team'), function(err, teams) {
-			// 	if (err) { return console.log(err.message); }
-			// }		
+			console.log("Using local files.")
 		}
 		console.log('>> createModels')
 	}

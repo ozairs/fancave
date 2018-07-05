@@ -28,7 +28,8 @@
     "helmet#noSniff": {},
     "helmet#noCache": {
       "enabled": false
-    }
+    },
+    "./tracing": {}
   },
   "session": {},
   "auth": {},
@@ -42,7 +43,7 @@
   },
   "files": {
     "loopback#static": {
-      "params": "$!../client/megafanz/www"
+      "params": "$!../client/fancave/www"
     }
   },
   "final": {

@@ -344,8 +344,7 @@
             "publishedAt": "2017-10-07T01:18:05.533Z"
         }
     ],
-
-    "nhl" : [
+    "nhl": [
         {
             "url": "https://sports.yahoo.com/nhl-stars-stand-vegas-golden-knights-debut-015157678.html?src=rss",
             "title": "NHL stands with Vegas for Knights' debut",
@@ -637,8 +636,7 @@
             "publishedAt": "2017-10-07T04:09:14.418Z"
         }
     ],
-
-    "mlb" : [
+    "mlb": [
         {
             "url": "https://sports.yahoo.com/mlb/arizona-diamondbacks-los-angeles-dodgers-371006119/?src=rss",
             "title": "Follow live: Dodgers jump on Diamondbacks",
@@ -864,6 +862,359 @@
             "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Jc_p7faLS9n1lf_mi85QOQ--~B/aD04NzM7dz0xMzEwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/homerun/sbnation1.vox.com/a57856d04e9a6a8c6eddfa8300037195",
             "description": "Earlier this week, tragedy struck in Las Vegas as a gunman opened fire on a music festival and killed more than 50 people, injuring hundreds of others and affecting dozens upon dozens of families and communities.  One person that took the attack to heart is Bryce Harper, a Vegas native that has offered",
             "publishedAt": "2017-10-07T04:09:38.397Z"
+        }
+    ],
+    "nfl": [
+        {
+            "url": "https://sports.yahoo.com/qb-lamar-jackson-enters-nfl-scouting-combine-polarizing-player-200158678.html?src=rss",
+            "title": "What to make of Lamar Jackson?",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/yUq4gZUuLa2HFTboTLqxSQ--~B/aD0xNjQ1O3c9MjQ2NjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/e5c362d57bc561ecce7a37e21edd41c6",
+            "description": "The draft process still has stereotypes at QB, where highly athletic (and often, black) players like Jackson are quick to ignite the “change position” talk.",
+            "publishedAt": "2018-02-23T18:31:08.773Z"
+        },
+        {
+            "url": "https://sports.yahoo.com/chiefs-reportedly-trading-cb-marcus-peters-rams-181109983.html?src=rss",
+            "title": "Chiefs reportedly trading CB Marcus Peters to Rams",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/hqwgVMqzkJ9R4fhFsuFwZg--~B/aD0yNjkwO3c9Mzk0MjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/f53250cd595c620233511583c370deba",
+            "description": "The Chiefs are trading cornerback Marcus Peters to the Rams barring a last-minute snag, according to ESPN.",
+            "publishedAt": "2018-02-23T18:31:08.774Z"
+        },
+        {
+            "url": "http://www.redskins.com/news/article-1/A-Look-At-The-Redskins-2018-Free-Agents/1bc205b1-2785-494b-bb69-67fb0252cdd1?src=rss",
+            "title": "A Look At The Redskins' 2018 Free Agents",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Actp_jd2XwQsCvevdtD14A--~B/aD0zNTA7dz02NjA7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/gPM5S5g3BMB0o58xAmLUEg--/dz02NjA7aD0zNTA7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_99a12f6c-4404-3af7-a1cb-b6cb4b1d9efc-2143659931.jpeg",
+            "description": "With free agency set to pick up steam in the coming weeks, Redskins.com starts it preview with a look at the players that spent 2017 on Washington's active roster. While the NFL Scouting Combine will take place next week in Indianapolis, free agency is also right around the corner. Beginning on Thursday",
+            "publishedAt": "2018-02-23T18:31:08.776Z"
+        },
+        {
+            "url": "https://www.cbssports.com/nfl/news/2018-nfl-mock-draft-heres-what-happens-if-you-pick-guys-solely-by-college-careers/?src=rss",
+            "title": "2018 NFL Mock Draft: Here's what happens if you pick guys solely by college careers",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/9Jn6yuwDqFeWEPWYJ_02pA--~B/aD00MzM7dz03NzA7c209MTthcHBpZD15dGFjaHlvbg--/https://s1.yimg.com/uu/api/res/1.2/.9YRGIgYR0bzj6vzkh3z2Q--/dz03NzA7aD00MzM7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_9c13e7dd-ff7b-39b3-877b-659fdf9639df--1112762505.jpeg",
+            "description": "The NFL and college football are different. This shouldn't come as a shock to anybody who has followed either sport, yet it seems to catch people by surprise around this time every year. That's because it's NFL Draft season, and that's the time of year when the differences between the",
+            "publishedAt": "2018-02-23T18:31:08.779Z"
+        },
+        {
+            "url": "http://thecomeback.com/nfl/offseason-preview-nfc-west-49ers-contender-rams-core.html?src=rss",
+            "title": "NFL 2018 Offseason Preview, NFC West: 49ers can become contender, Rams need to keep core in place",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/j34IECKso98rvu7rLfH0DA--~B/aD0yMDE0O3c9MjgzMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/D9QpvMPrwa1ldBr9kzJZhw--/dz0yODMwO2g9MjAxNDt0YWc9b3JpZ2luYWw7YXBwaWQ9eW5ld3M-/http://streambe.zenfs.com/streambe/streambe_356d3b93-e67e-39cc-8cb1-c9d28260b404--314071936.jpeg",
+            "description": "Between now and the start of the new league year in March, we're going to look ahead at the offseason for each NFL team, division by division. Previously in our offseason summaries, we covered the AFC — East, North, South and West — and are now looking at the NFC. We began in the East, trekked through",
+            "publishedAt": "2018-02-23T18:31:08.780Z"
+        },
+        {
+            "url": "http://hanfordsentinel.com/sports/football/nfl-free-agency-interesting-options-at-tight-end-a-risky/article_619871c5-a5fd-5970-a166-7f9895690bb2.html?src=rss",
+            "title": "NFL Free Agency 2018: 4 interesting options at tight end, a risky position",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/OH4z5YI0PIOL3hrZvz.uCw--~B/aD01NzY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s1.yimg.com/uu/api/res/1.2/kk2XB.ZqIkNOAK9pBAPnAA--/dz0xMDI0O2g9NTc2O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_1a755112-e576-395f-8dc4-d738c69e4a15-1293448858.jpeg",
+            "description": "On the one hand, his yards per catch dropped from a career-best 14.2 in 2016 to a surprisingly pedestrian 9.1 this past season. But on the flip side, Graham was a much-better red-zone producer in 2017, when he caught 10 touchdowns (nine coming in an eight-game flourish around midseason), than he had",
+            "publishedAt": "2018-02-23T18:31:08.781Z"
+        },
+        {
+            "url": "http://www.newyorkjets.com/news/article-7/Free-Agency-Could-Be-Rich-with-RBs/532771e6-3d24-4df2-a1c7-73e241ea3425?src=rss",
+            "title": "Free Agency Could Be Rich with RBs",
+            "description": "Jets Free Agents XRFA (2): FB Lawrence Thomas , RB Jahad Thomas The Market Notable UFA Running Backs: Le'Veon Bell (PIT), Carlos Hyde (SF), Dion Lewis (NE), Rex Burkhead (NE), LeGarrette Blount (PHI), Jerick McKinnon (MIN), Isaiah Crowell (CLE), Brandon Bolden (NE), Doug Martin (TB), Darren Sproles",
+            "publishedAt": "2018-02-23T18:31:08.782Z"
+        },
+        {
+            "url": "http://espn.com/blog/afcnorth/post/_/id/94064/dez-jordy-ravens-15-year-history-suggests-targeted-receiver-is-cap-cut?src=rss",
+            "title": "Dez? Jordy? Ravens' 15-year history suggests targeted receiver is cap cut",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/tJIDlvi5DSmqJiZuEXFSag--~B/aD03Mjk7dz0xMjk2O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/wpYN0aYK0bqwH2tCJ9iZ3w--/dz0xMjk2O2g9NzI5O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_2db4c240-5d95-30b1-82b5-3ec09ad4d46d--1389067965.jpeg",
+            "description": "Jamison Hensley ESPN Staff Writer Close University of Maryland graduate Lives in the Baltimore area with his wife and son Follow on Twitter OWINGS MILLS, Md. -- There was a collective groan from the Baltimore Ravens' fan base, and even some players themselves, on Tuesday night when the Miami Dolphins",
+            "publishedAt": "2018-02-23T18:31:08.783Z"
+        },
+        {
+            "url": "https://www.tennessean.com/story/sports/nfl/titans/2018/02/23/nfl-free-agency-2018-titans-malcolm-butler-sammy-watkins-sheldon-richarson/361536002/?src=rss",
+            "title": "Titans: 5 big-ticket free agents to consider signing",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/TnbmWdetnIghnPTZZ8t7Pg--~B/aD0xNjgwO3c9MzIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/tdu9DjqqrEd5MsDHA9Bo_g--/dz0zMjAwO2g9MTY4MDt0YWc9b3JpZ2luYWw7YXBwaWQ9eW5ld3M-/http://streambe.zenfs.com/streambe/streambe_87334f1d-c8d2-3a51-9aab-cb11cf1d2d63--1876022590.jpeg",
+            "description": "Mike Vrabel talks about being the Titans head coach and how he will call whatever plays he wants The Titans are projected to have more than $50 million under the salary cap this offseason. It's worth keeping in mind that general manager Jon Robinson declined to break the bank in free agency a year",
+            "publishedAt": "2018-02-23T18:31:08.784Z"
+        },
+        {
+            "url": "https://sports.yahoo.com/baker-mayfield-compares-russell-wilson-125734295.html?src=rss",
+            "title": "How Baker Mayfield Compares to Russell Wilson",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/rLD7PAWlo_krdsoMVoAjXw--~B/aD03MjQ7dz0xMzAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/homerun/sports_illustrated_941/6582065beb5a36f8907528d54d39c125",
+            "description": "Part 5 of our draft season series on Baker Mayfield, the 2018 draft’s most fascinating prospect on and off the field CATHEDRAL CITY, Calif. — The former NFL offensive coordinator zones in on a single play—a needle in a haystack of muted clips flashing across a flatscreen—that confirms what his eyes have",
+            "publishedAt": "2018-02-23T18:31:08.784Z"
+        },
+        {
+            "url": "http://www.espn.com/nfl/insider/story/_/id/22541200/15-awesome-2017-nfl-college-football-plays-every-offensive-coordinator-steal-2018?src=rss",
+            "title": "15 plays -- with best fits -- every NFL coach should steal",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/tY2ldIxznTYjQVCIdkh7UA--~B/aD03Mjk7dz0xMjk2O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TNkRkZX9uNafrjqaJiYx2w--/dz0xMjk2O2g9NzI5O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_6612580c-77ac-377f-a463-ede35d0ddfe8-1313891161.jpeg",
+            "description": "Matt Bowen ESPN Staff Writer Former NFL safety Matt Bowen is a veteran of four teams over seven seasons, and now provides analysis for ESPN Insider. Follow on Twitter Just about every NFL team has started to adapt to modern offensive playcalling. Look at that thrilling Super Bowl LII in which the combined",
+            "publishedAt": "2018-02-23T18:31:08.785Z"
+        },
+        {
+            "url": "http://bleacherreport.com/articles/2760892-failing-a-marijuana-combine-test-may-no-longer-be-nfl-teams-biggest-concern?src=rss",
+            "title": "Failing a Marijuana Combine Test May No Longer Be NFL Teams' Biggest Concern",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/5bVU9fpomPKDYf2eFbW3Nw--~B/aD0xMjAwO3c9MTIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/2nznu9B_pgM_YKjdhg0.Xg--/dz0xMjAwO2g9MTIwMDt0YWc9b3JpZ2luYWw7YXBwaWQ9eW5ld3M-/http://streambe.zenfs.com/streambe/streambe_c6503f37-5dd2-3bb2-90ce-2191f34e0cae--1520076461.jpeg",
+            "description": "Last year, like so many others, more than 300 prospects lined up at the NFL Scouting Combine, went into a room and peed into a cup.  Most would pass the litany of tests the NFL runs to see whether any players are using drugs banned under the collective bargaining agreement. But one drug in particular",
+            "publishedAt": "2018-02-23T18:31:08.785Z"
+        },
+        {
+            "url": "https://sports.yahoo.com/diary-nfl-hopeful-apos-apos-080058795.html?src=rss",
+            "title": "Diary of an NFL hopeful: 'I've put on at least 10 pounds of lean muscle in five weeks'",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/kPpvr2NXEM8eVlrFCU86bQ--~B/aD0xNTYzO3c9MjUwMTtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-GB/homerun/the_telegraph_258/a590c71118c3c33d379ae6e6c5981d38",
+            "description": "Our Mondays go so fast. You wake up early and it feels like you blink and the day is over, because you go from one thing to the next. Last week started in the classroom with some formation learning on blocking schemes and pass protection. Then, as we do four times each week, we worked on our combine",
+            "publishedAt": "2018-02-23T18:31:08.786Z"
+        },
+        {
+            "url": "https://www.hogshaven.com/2018/2/23/17022426/fanshots?src=rss",
+            "title": "The 5 O'Clock Club: Poll Rewind - Friday double shot of James Dorsett",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/oqSXBeQr15LiZHXrBahxhw--~B/aD02Mjg7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/BTgBpGizLO11wVcWh8xZtw--/dz0xMjAwO2g9NjI4O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_4a1e9707-74f4-30c8-897f-78ac6df54257-195903137.jpeg",
+            "description": "The 5 o'clock club aims to provide a forum for reader-driven discussion at a time of day when there isn't much NFL news being published. Feel free to introduce topics that interest you in the comments below. This is part 2 of a special Friday double-shot. . Today we not only get James Dorsett",
+            "publishedAt": "2018-02-23T18:31:08.787Z"
+        },
+        {
+            "url": "https://www.canalstreetchronicles.com/2018/2/23/17041396/new-orleans-saints-free-agency-donte-moncrief-indianapolis-colts-drew-brees-sean-payton-andrew-luck?src=rss",
+            "title": "New Orleans is a city that can feed Donte Moncrief",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/RTxbsuwhiNncKgck6FcLYg--~B/aD02Mjg7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/TBKoohT96rhbFu8K.tVDGA--/dz0xMjAwO2g9NjI4O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_3dc48bf4-bc09-38b7-9940-9e59d4439126-809290297.jpeg",
+            "description": "The New Orleans Saints fielded one of the league's strongest offenses again in 2017, but it started, stopped, and sputtered far too often. That was due to a lack of options in big situations: when teams found a way to defend Michael Thomas or Alvin Kamara, nobody else was able to step up. That turned",
+            "publishedAt": "2018-02-23T18:31:08.792Z"
+        },
+        {
+            "url": "https://www.behindthesteelcurtain.com/2018-pittsburgh-steelers-free-agency-news-rumors/2018/2/23/17002540/steelers-2018-free-agent-market-watch-the-wide-receivers-jarvis-landry-allen-robinson-josh-gordon?src=rss",
+            "title": "Steelers 2018 Free Agent Market Watch: The Wide Receivers",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/RljYG0rbNQHOXJuEL6V45Q--~B/aD02Mjg7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s1.yimg.com/uu/api/res/1.2/ke_Th8TssaEHpUOrqpktSw--/dz0xMjAwO2g9NjI4O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_1c3fec02-cebf-345d-977c-d4ea0255e439--1866513247.jpeg",
+            "description": "The Steelers corps of receivers are head and shoulders above where they were last year at this time. Antonio Brown was All-World again in 2017, JuJu Smith-Schuster was a rookie sensation that came close to 1,000 yards and Martavis Bryant made great strides towards season's end in coming off of a",
+            "publishedAt": "2018-02-23T18:31:08.795Z"
+        },
+        {
+            "url": "https://www.arrowheadpride.com/2018/2/23/17043830/arrowheadlines-cardinals-giants-among-teams-that-desperately-wanted-chiefs-qb-patrick-mahomes?src=rss",
+            "title": "Arrowheadlines: Cardinals, Giants among teams that \"desperately wanted\" Chiefs QB Patrick Mahomes",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/qp6U7h6qry2k5RTJVZgf4w--~B/aD02Mjg7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s1.yimg.com/uu/api/res/1.2/82CAinVjIrqS.MIpV_jMXA--/dz0xMjAwO2g9NjI4O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_833dd200-cc0c-318a-8227-66bfd9122ddc--1538448587.jpeg",
+            "description": "The latest 2. Pick up Marcus Peters' fifth-year option. Peters got suspended for a game last season after briefly losing his mind against the Jets, including a tossing a penalty flag into the crowd. But he's one of the best cornerbacks on the planet. Andy Reid & Co. might theoretically pass on",
+            "publishedAt": "2018-02-23T18:31:08.796Z"
+        },
+        {
+            "url": "https://www.behindthesteelcurtain.com/2018/2/22/17042826/what-former-steeler-s-will-be-rejoining-the-team-in-2018?src=rss",
+            "title": "A possible return to the Black and Gold?",
+            "description": "While not extensive the Pittsburgh Steelers have had a history of bringing back former players. That list includes Larry Foote, James Harrison, Willie \"Big Play\" Gay, Will Allen, Plaxico Burress and just last year Sean Spence made his way back into the Black and Gold. I may have missed some",
+            "publishedAt": "2018-02-23T18:31:08.797Z"
+        },
+        {
+            "url": "http://www.neworleanssaints.com/news-and-events/article-1/New-Orleans-Saints-assistant-Aaron-Glenn-to-be-inducted-into-Texas-Black-Sports-Hall-of-Fame/08b69186-50a0-45d8-986b-3f5f3e2f259b?src=rss",
+            "title": "New Orleans Saints assistant Aaron Glenn to be inducted into Texas Black Sports Hall of Fame",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/BDicqaeL8.WcyI3R.NM01w--~B/aD02NzM7dz04OTA7c209MTthcHBpZD15dGFjaHlvbg--/https://s1.yimg.com/uu/api/res/1.2/UH8aAr2xyS3C7Cj66nMkHA--/dz04OTA7aD02NzM7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_f5b61a45-d3bf-3f9a-85bd-c2c5ecc54ce3--1835499818.jpeg",
+            "description": "New Orleans Saints assistant coach Aaron Glenn, who was a star defensive back for Texas A&M and the New York Jets, will be inducted into the Parrish Restaurants Texas Black Sports Hall of Fame on Saturday in Dallas. Glenn, a first-round draft choice by the Jets in 1994, enjoyed a 15-year playing career",
+            "publishedAt": "2018-02-23T18:31:08.798Z"
+        },
+        {
+            "url": "https://www.cbssports.com/nfl/news/where-have-the-wideouts-gone-explaining-the-recent-bust-rate-for-first-round-wrs/?src=rss",
+            "title": "Where have the wideouts gone? Explaining the recent bust rate for first-round WRs",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/AsB0moqVVLg8v.cNJxGsKg--~B/aD00MzM7dz03NzA7c209MTthcHBpZD15dGFjaHlvbg--/https://s1.yimg.com/uu/api/res/1.2/Gxj_GKMECkAmOGdQEdXa4Q--/dz03NzA7aD00MzM7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_b6b1728e-a6d7-302e-9e0b-c5e9563bed54-953749783.jpeg",
+            "description": "Safe picks in the NFL Draft do not exist, as much as pre-draft lexicon might lead you to believe it. For a nice stretch over the last decade, however, selecting a wideout in the first round was a pretty profitable enterprise. Lately, those profits appear to have vanished, with first-round wideouts struggling",
+            "publishedAt": "2018-02-23T18:31:08.799Z"
+        },
+        {
+            "url": "https://sports.yahoo.com/veteran-kicker-vinatieri-signs-colts-225048505.html?src=rss",
+            "title": "NFL: Veteran kicker Vinatieri signs with Colts for further year",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/3sbj7Yztce6dhkRXcFZx9Q--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-GB/homerun/omnisport.uk/ac21428645b25e533809ba07f7a72b53",
+            "description": "At the age of 45, Adam Vinatieri has signed a new one-year contract with the Indianapolis Colts for his 23rd season in the NFL.",
+            "publishedAt": "2018-02-23T18:31:08.800Z"
+        },
+        {
+            "url": "https://chiefswire.usatoday.com/2018/02/22/james-winchester-is-trying-to-recruit-aaron-colvin-to-the-chiefs/?src=rss",
+            "title": "James Winchester is trying to recruit Aaron Colvin to the Chiefs",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/PNi2RN00enI2x78GuiS_Xg--~B/aD01NzY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s1.yimg.com/uu/api/res/1.2/y2Y4ELPdVzIU0pI5aNXKQQ--/dz0xMDI0O2g9NTc2O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_c22aeaba-44e2-3102-9cd8-78957345c456-17342140.jpeg",
+            "description": "The Chiefs have already added two cornerbacks before the start of free agency — Kendall Fuller and David Amerson — but do they have room for a third? Chiefs long snapper James Winchester hopes so. A recent report surfaced saying Jaguars cornerback Aaron Colvin is unlikely to be re-signed by Jacksonville",
+            "publishedAt": "2018-02-23T18:31:08.801Z"
+        },
+        {
+            "url": "https://sports.yahoo.com/qb-lamar-jackson-enters-nfl-scouting-combine-polarizing-player-200158678.html?src=rss",
+            "title": "QB Lamar Jackson enters NFL scouting combine as most polarizing player",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/yUq4gZUuLa2HFTboTLqxSQ--~B/aD0xNjQ1O3c9MjQ2NjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/e5c362d57bc561ecce7a37e21edd41c6",
+            "description": "The draft process still has stereotypes at QB, where highly athletic (and often, black) players like Jackson are quick to ignite the “change position” talk.",
+            "publishedAt": "2018-02-23T18:31:08.802Z"
+        },
+        {
+            "url": "https://scout.com/nfl/denver-broncos/Article/An-AJ-McCarron-Scenario-That-Would-Make-Sense-For-The-Broncos-115444206?src=rss",
+            "title": "An AJ McCarron Scenario That Would Make Sense For The Denver Broncos",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/5XR3xuvcvpXrlPzFOyG1OA--~B/aD02MzA7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s1.yimg.com/uu/api/res/1.2/8CHjY4b1ea98bVWIeSu.6A--/dz0xMjAwO2g9NjMwO3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_fe66c5e9-506c-3d30-b37d-4b51967194fa--1635286158.jpeg",
+            "description": "Most of my own guys here at Mile High Huddle see McCarron-to-Denver as a sub-optimal option for the Broncos. I don't. So, planning for the top of the mountain — or the worst-case scenario — let's assume Cousins is looking for a cool $28M/year on the open market, which would make him the highest-paid",
+            "publishedAt": "2018-02-23T18:31:08.803Z"
+        },
+        {
+            "url": "https://ravenswire.usatoday.com/2018/02/22/who-the-ravens-would-have-drafted-if-mel-kiper-was-in-charge/?src=rss",
+            "title": "Who Ravens would have drafted if Mel Kiper were in charge",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/NIEed0HwUAbKeCQpPxp_DQ--~B/aD01NzY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/T0EVu3VpNvzG_9xmndcrUw--/dz0xMDI0O2g9NTc2O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_c606d6cf-1474-366e-b86e-a5d1273abea2--618392446.jpeg",
+            "description": "ESPN's Mel Kiper Jr. is the most recognizable draft analyst out there. Thanks to the airtime he gets on ESPN and the idea he holds some insider information on who each team is looking at, Kiper holds a lofty place when it comes to the NFL draft. It's why his few mock drafts hold so much weight",
+            "publishedAt": "2018-02-23T18:31:08.803Z"
+        },
+        {
+            "url": "http://profootballtalk.nbcsports.com/2018/02/22/report-franchise-tag-unlikely-for-sheldon-richardson/?src=rss",
+            "title": "Report: Franchise tag unlikely for Sheldon Richardson",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/1NP6XSZnw5OIcCsyqzrGMw--~B/aD00MTc7dz03MDQ7c209MTthcHBpZD15dGFjaHlvbg--/https://s1.yimg.com/uu/api/res/1.2/EwNEGWJHYGxJVi1TvRFCLg--/dz03MDQ7aD00MTc7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_5788b782-488d-33ba-b07f-2f057a8565cd-1548113752.jpeg",
+            "description": "Before the window to use the franchise tag opened earlier this week, we ran through options to get the tag from each team in the NFL. When it came to the Seahawks, two names were mentioned. One was tight end Jimmy Graham, but there haven't been many signs that the team is planning to go that way.",
+            "publishedAt": "2018-02-23T18:31:08.804Z"
+        },
+        {
+            "url": "https://www.cnbc.com/2018/02/22/tim-tebow-says-you-should-never-strive-to-be-normal.html?__source=yahoo%7Cfinance%7Cheadline%7Cstory%7C&par=yahoo&yptr=yahoo?src=rss",
+            "title": "Why Tim Tebow says you should never strive to be normal",
+            "description": "Former NFL player Tim Tebow tells CNBC contributor Suzy Welch that striving to be normal blocks your chance to find your true purpose.",
+            "publishedAt": "2018-02-23T18:31:08.804Z"
+        },
+        {
+            "url": "https://sports.yahoo.com/nfl-head-coach-tracker-2018-181106880.html?src=rss",
+            "title": "NFL head coach tracker | 2018 offseason",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/zJUljEegl1UdPlQfn5xmSQ--~B/aD0zNjA7dz02NDA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/video/video.nflhighlights.com/ad63966056cddfbdd493f7891860cdfb",
+            "description": "See which NFL teams will have new head coaches next season - and see where those coaches are coming from.",
+            "publishedAt": "2018-02-23T18:31:08.805Z"
+        },
+        {
+            "url": "http://www.tmz.com/2018/02/22/warrick-dunn-saquon-barkley-derrius-guice/?adid=sidebarwidget-tmzsports?src=rss",
+            "title": "Warrick Dunn: Saquon Barkley Will Crush the NFL, But I've Got Some Advice",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/6KbZIuyrrA7w4kaJDhYStw--~B/aD01NDc7dz03Mjg7c209MTthcHBpZD15dGFjaHlvbg--/https://s1.yimg.com/uu/api/res/1.2/Hb2NKZzqjldxh0n3lYHmjA--/dz03Mjg7aD01NDc7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_d1a85a71-48e2-38d3-a347-282dc4731009--608474582.jpeg",
+            "description": "Warrick Dunn Saquon Barkley Will Crush the NFL But, I've Got Some Advice 1 2/22/2018 9:58 AM PST Ex-NFL star Warrick Dunn believes Saquon Barkley is gonna run roughshod over the NFL, but it ain't gonna be a cakewalk -- so, Warrick's giving him some RB-to-RB real talk. We got the 3-time Pro",
+            "publishedAt": "2018-02-23T18:31:08.805Z"
+        },
+        {
+            "url": "https://sports.yahoo.com/nfl-sweetens-pot-draft-invitees-160720074.html?src=rss",
+            "title": "NFL sweetens the pot for draft invitees, a little",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/iac3RU5aFHVox5HyarSWLA--~B/aD0zMzI7dz01OTE7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/homerun/profootballtalk.nbcsports.com/305bdba55c133227725cdd6afef1f941",
+            "description": "As the Ultimate Reality Show’s ultimate offseason reality show prepares to have the largest in-person and television audiences ever, the NFL is sweetening the pot for the players who are invited to attend. Sort of. Gil Brandt of NFL.com announces that the player’s high school coach will be part of the",
+            "publishedAt": "2018-02-23T18:31:08.805Z"
+        },
+        {
+            "url": "http://www.winonadailynews.com/sports/football/nfl-free-agency-interesting-wideouts-not-named-landry-robinson-or/article_37e84261-c89f-5209-a2d7-17dae9c8245d.html?src=rss",
+            "title": "NFL Free Agency 2018: 5 interesting wideouts not named Landry, Robinson or Watkins",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/5LbBF6rOX.WpSVPSw43atw--~B/aD01NzY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s1.yimg.com/uu/api/res/1.2/R6hkRT34jp_vDBMd5RCo2w--/dz0xMDI0O2g9NTc2O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_e3b584bb-bd68-3dba-bc65-f4ed436148b6-1331063773.jpeg",
+            "description": "Things couldn't have gone worse in his one-and-done season in Washington, where Pryor managed only 20-240-1 receiving and never entered Jay Gruden's and Kirk Cousins' circle of trust. But the soon-to-be 29-year-old didn't suddenly lose the unique size (6-foot-4) and speed (4.4 40-yard",
+            "publishedAt": "2018-02-23T18:31:08.806Z"
+        },
+        {
+            "url": "http://www.winonadailynews.com/sports/football/marqise-lee-like-brown-lee-s-durability-issues-will-prevent/image_a6400833-e967-5e87-847c-88e32455ce03.html?src=rss",
+            "title": "4. Marqise Lee Like Brown, Lee's durability issues will prevent him from landing a deal commensurate with his upside. The 26-year-old was actually drafted not only before Brown but Robinson, Landry and Davante Adams. Lee has yet to show the explosive playmaking ability that was regularly on display ...",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/EU_HzNEYRbsmmKNDVVkcGg--~B/aD01NzY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/1hVrVSwaY5cbgy0vTCb.0w--/dz0xMDI0O2g9NTc2O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_c835c05d-a94d-3102-9914-69afb125d703--948243097.jpeg",
+            "description": "4. Marqise Lee Like Brown, Lee's durability issues will prevent him from landing a deal commensurate with his upside. The 26-year-old was actually drafted not only before Brown but Robinson, Landry and Davante Adams. Lee has yet to show the explosive playmaking ability that was regularly on display",
+            "publishedAt": "2018-02-23T18:31:08.806Z"
+        },
+        {
+            "url": "http://sports-ak.espn.go.com/blog/nflnation/post/_/id/269580/jon-gruden-lack-of-coaching-continuity-has-hurt-raiders?src=rss",
+            "title": "Jon Gruden: Lack of coaching continuity has hurt Raiders",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/YFP4KmJ9CRi0cPDtQXUIDA--~B/aD03Mjk7dz0xMjk2O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/8qQ8nE0vKqxZYgKvBhAtSQ--/dz0xMjk2O2g9NzI5O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_23ae1ce1-d7c0-3ecf-99c6-2058ce7b1225--1310452360.jpeg",
+            "description": "Paul Gutierrez ESPN Staff Writer Close Covered Oakland Raiders for CSNBayArea.com and Sacramento Bee for eight years Member of Pro Football Writers Association Previously worked at Los Angeles Times, Las Vegas Review-Journal and Sports Illustrated Follow on Twitter ALAMEDA, Calif. -- Jon Gruden has an",
+            "publishedAt": "2018-02-23T18:31:08.807Z"
+        },
+        {
+            "url": "http://tampa.cbslocal.com/2018/02/22/5-guys-who-could-shine-at-nfl-combine/?src=rss",
+            "title": "5 Guys Who Could Shine At NFL Combine",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/CIyQBKIJ7hrIrMZenu2u9g--~B/aD0zNTM7dz02MzA7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/bC6Av1Sp.dkj72uhoTgWIQ--/dz02MzA7aD0zNTM7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_dd2cffb4-0239-3322-b486-da3f1fea04e7-1534744731.jpeg",
+            "description": "Ryan Mayer We're a little over two weeks removed from the Philadelphia Eagles hoisting the Lombardi Trophy, and yet it feels like it's been forever since we had football to talk about. Well, that appetite for football will be satiated, somewhat, by the arrival of the NFL Combine. NFL Draft hopefuls",
+            "publishedAt": "2018-02-23T18:31:08.807Z"
+        },
+        {
+            "url": "http://tv5.espn.com/nfl/story/_/id/22347565/kirk-cousins-2018-nfl-free-agency-sweepstakes-seven-offers-sign-quarterback-picking-best?src=rss",
+            "title": "Seven offers, one winner: Playing out the Kirk Cousins sweepstakes",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/lbMosu6ZDbMtE9xMbfFi3A--~B/aD01NzY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/6JxUyajpsUYCGDmm6Nzbag--/dz0xMDI0O2g9NTc2O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_b29a2112-b3f3-3047-aa4b-eafabf7e0b0e--1354756870.jpeg",
+            "description": "ESPN.com Just how much will quarterback Kirk Cousins make when he hits the open market next month, and what could the contract he signs look like? We asked NFL Nation reporters to make their best offer -- on behalf of the teams they cover -- to the most-coveted free agent, who won't be back in Washington",
+            "publishedAt": "2018-02-23T18:31:08.808Z"
+        },
+        {
+            "url": "https://www.courier-journal.com/story/sports/nfl/2018/02/22/louisville-edjsports-event-featuring-barack-obama/354553002/?src=rss%3Fsrc%3Drss?src=rss",
+            "title": "Morning Coffee: A Louisville firm that's shaking up the NFL gets to share the spotlight with Obama",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/R3S4TdIRzOCO_uweTh2gLg--~B/aD0xNjgwO3c9MzIwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/yzkQdcs.fjIFKe6kQ9sgMA--/dz0zMjAwO2g9MTY4MDt0YWc9b3JpZ2luYWw7YXBwaWQ9eW5ld3M-/http://streambe.zenfs.com/streambe/streambe_609dbb12-85d2-3418-a58e-9b8d9674c74d-655038274.jpeg",
+            "description": "EdjSports is a Louisville company that NFL teams are listening to. Why? It uses analytics to help coaches make better calls. Ever heard of the Massachusetts Institute of Technology's Sloan Sports Analytics Conference? Yeah, I hadn't either. So I looked into it, and well, if this sounds like a",
+            "publishedAt": "2018-02-23T18:31:08.808Z"
+        },
+        {
+            "url": "http://ravenswire.usatoday.com/2018/02/22/ravens-free-agent-wish-list-pass-rusher/?src=rss?src=rss",
+            "title": "Ravens' free agent wish list: Pass rusher",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/QDKgDcDQxqjSCSKmugOxmw--~B/aD01NzY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ir71KBIpM5CSqQlTo5_uvg--/dz0xMDI0O2g9NTc2O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_a732b493-0205-3190-8bae-d28b9b5ce91e--1566744623.jpeg",
+            "description": "Free agency officially kicks off on March 14, but the “legal tampering period” starts on March 12. Even still, we know there's going to be some winks, nods and notes passed around before that point to pending free agents all in an attempt to woo them somewhere new. The Baltimore Ravens will be among",
+            "publishedAt": "2018-02-23T18:31:08.809Z"
+        },
+        {
+            "url": "https://www.fieldgulls.com/2018/2/22/17039644/century-links-2-22-what-to-do-at-te?src=rss",
+            "title": "Century Links: 2/22: What to do at TE?",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/yTFZPrXx._La2h63JDD3lA--~B/aD02Mjg7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/swWoDMsB8UYR5SBBSecHZg--/dz0xMjAwO2g9NjI4O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_824396e7-6c50-3bc8-8ba1-12064981df9e-977806968.jpeg",
+            "description": "Seahawks have connection to Josh Sitton with Mike Solari Seattle Seahawks have connection to free-agent-to-be Josh Sitton through new offensive line coach Mike Solari. Former Seahawks' brains shed light on NFL head injuries | KREM.com The brains of at least three former Seahawks  --  Center Grant",
+            "publishedAt": "2018-02-23T18:31:08.809Z"
+        },
+        {
+            "url": "http://buffalonews.com/2018/02/22/free-agent-focus-choices-at-receiver-not-overwhelming/?src=rss",
+            "title": "Free agent Focus: Choices at receiver not overwhelming",
+            "description": "This is the second in a series examining potential free agents at positions where the Buffalo Bills have a need. Blame for the Buffalo Bills' weak passing attack last season doesn't end with insufficient quarterback play. Tyrod Taylor has his faults, perhaps enough to prevent his return for a",
+            "publishedAt": "2018-02-23T18:31:08.810Z"
+        },
+        {
+            "url": "https://www.patspulpit.com/2018/2/22/17027064/super-bowl-hangover-new-england-patriots-nfl-eagles-falcons-steelers-bills-seahawks-49ers-broncos?src=rss",
+            "title": "How real is the Super Bowl hangover and what does it mean for the Patriots?",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/ylytDh5J5blGttALDWmcDA--~B/aD02Mjg7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s1.yimg.com/uu/api/res/1.2/DDLA6dbflKpeGVCUMAFPsA--/dz0xMjAwO2g9NjI4O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_8febfbea-16bf-3394-95f7-190999a8d902--1616276317.jpeg",
+            "description": "When Tom Brady's final pass of the year fell incomplete, it sealed the fate of the 2017 New England Patriots: they would end the season in second place, defeated in Super Bowl LII by the Philadelphia Eagles. What is following the loss on the game's biggest stage is an offseason of questions –",
+            "publishedAt": "2018-02-23T18:31:08.810Z"
+        },
+        {
+            "url": "https://sports.yahoo.com/longtime-nfl-linebacker-estimates-sustained-2500-concussions-career-010122413.html?src=rss",
+            "title": "Longtime NFL linebacker estimates he sustained 2,500 concussions in his career",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/P047ucb2CJ52dB8qteTjnQ--~B/aD0yNDM2O3c9MzYyMjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/c2e69fd7b00082b573a14e10b98c9600",
+            "description": "Playing 15 seasons of professional football took a pretty serious toll on Gary Plummer.",
+            "publishedAt": "2018-02-23T18:31:08.811Z"
+        },
+        {
+            "url": "http://amp.sacbee.com/sports/nfl/oakland-raiders/article201458364.html?src=rss",
+            "title": "Trip to Levi's Stadium on Raiders' regular-season schedule",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/wyJmnCuOr8Hq_eB.t3V1og--~B/aD02NDE7dz0xMTQwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/JFIkBw7E6BuDnsMRyiy6Kw--/dz0xMTQwO2g9NjQxO3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_d9748991-ab68-3381-9a94-361c31b45096--206322680.jpeg",
+            "description": "The Raiders will visit their Bay Area rival's stadium for the first time. The 49ers are one of Oakland's eight road opponents for the 2018-19 season. They will also have the usual away games against AFC West rivals Denver, Kansas City and the Los Angeles Chargers, and will travel to Arizona,",
+            "publishedAt": "2018-02-23T18:31:08.812Z"
+        },
+        {
+            "url": "http://www.espn.com/espn/wire?section=nfl&id=22533491?src=rss",
+            "title": "AP source: Free agent CB Davis meets with 49ers, Raiders",
+            "description": "ALAMEDA, Calif. -- Free agent cornerback Vontae Davis has met with the San Francisco 49ers and Oakland Raiders about upgrading their secondaries. A person familiar with Davis' plans says he met with the Raiders on Wednesday after meeting with 49ers the previous day. The person spoke on condition",
+            "publishedAt": "2018-02-23T18:31:08.812Z"
+        },
+        {
+            "url": "http://billswire.usatoday.com/2018/02/21/buffalo-bills-nfl-offseason-free-agency-draft/?src=rss?src=rss?src=rss",
+            "title": "Bills rank No. 8 in metric measuring NFL teams' ability to improve",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/7RR.mNkN.m6VEhdSj3cu3A--~B/aD01NzY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s1.yimg.com/uu/api/res/1.2/hYiTkDqRMxhX96H83TOKmQ--/dz0xMDI0O2g9NTc2O3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_a31a4f69-2b13-34df-bfd4-e5df79a49259-452676808.jpeg",
+            "description": "Ruiz used a basic formula for examining a team's ability to improve during this offseason. He looked at every teams' salary cap space and their draft capital to determine which teams are set up for success during the NFL offseason. Buffalo finds themselves with the eighth-best chance to improve",
+            "publishedAt": "2018-02-23T18:31:08.813Z"
+        },
+        {
+            "url": "http://www.espn.com/espn/wire?section=nfl&id=22532445?src=rss",
+            "title": "Buccaneers hire Brentson Buckner as defensive line coach",
+            "description": "TAMPA, Fla. -- The Tampa Bay Buccaneers have hired former NFL player Brentson Buckner as defensive line coach. Buckner spent the past five seasons as defensive line coach for the Arizona Cardinals. They had 203 sacks during his tenure -- tied for the seventh-most in the NFL. The Bucs were last in the",
+            "publishedAt": "2018-02-23T18:31:08.813Z"
+        },
+        {
+            "url": "http://www.philly.com/philly/sports/stop-all-the-nonsense-about-the-great-draft-picks-the-eagles-can-get-for-nick-foles-bob-ford-20180221.html?src=rss?src=rss?src=rss?src=rss",
+            "title": "No, Nick Foles will not fetch the Eagles great draft picks",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/dLYJByfrk3d6X1m1gHAVWw--~B/aD04MDE7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ag7fhmaBU7UYlM_3F.37Ug--/dz0xMjAwO2g9ODAxO3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_0196fb93-49ff-3c2c-aff7-d3f000ec8bb5-167994579.jpeg",
+            "description": "Bob Ford is an award-winning sports columnist for the Inquirer and Daily News. He is a four-time Pennsylvania Sportswriter of the Year, as selected by the National Sportscasters and Sportswriters Association. His work has been cited numerous times by Associated Press Sports Editors judges, and he won",
+            "publishedAt": "2018-02-23T18:31:08.814Z"
+        },
+        {
+            "url": "http://www.espn.com/video/clip/_/id/22530478?src=rss",
+            "title": "Stephen A.: Time to ensure African-American NFL team ownership",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/urmKZIGr8FIOObpPRvkK1g--~B/aD01MDE7dz04OTM7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/0FZRzMdW1mVrdzYUqDKluA--/dz04OTM7aD01MDE7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_cf8a6256-0023-3440-85a9-583b90f13b9d--1541963498.jpeg",
+            "description": "ESPN analyst Stephen A. Smith implores team owners to facilitate African-American ownership in the NFL as they look for Jerry Richardson's successor in Carolina.",
+            "publishedAt": "2018-02-23T18:31:08.815Z"
+        },
+        {
+            "url": "http://www.sportingnews.com/nfl/news/nfl-free-agency-preview-cleveland-browns-rumors-free-agents-targets-kirk-cousins-aj-mccarron/tasyumz3bzfx17fiix9p12140?src=rss",
+            "title": "NFL free agency: Browns' big decisions start with Kirk Cousins, AJ McCarron",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/JX0b7c9rlGeUXXXJBgkGrg--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s1.yimg.com/uu/api/res/1.2/_96PahZbnrmz478MncGuBw--/dz0xOTIwO2g9MTA4MDt0YWc9b3JpZ2luYWw7YXBwaWQ9eW5ld3M-/http://streambe.zenfs.com/streambe/streambe_8c8f99ac-b6d3-3390-8d3a-8347371a8c3d-159971119.jpeg",
+            "description": "How aggressive will the Browns be in NFL free agency? Before they're on the clock for 12 draft picks (for now) in April, their 2018 offseason will be set in motion by how much of their league-high $110 million under the salary cap they spend in March. For new general manager John Dorsey and retained",
+            "publishedAt": "2018-02-23T18:31:08.815Z"
+        },
+        {
+            "url": "https://sports.yahoo.com/jarvis-landry-getting-franchise-tag-crop-free-agent-wrs-looking-thin-160137728.html?src=rss",
+            "title": "With Jarvis Landry getting franchise tag, crop of free-agent WRs looking thin again",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/VAG5Z84WEEAzXMMO6ssvew--~B/aD0zMDIwO3c9Mzg1MztzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/64880a955c7866ab5db13a7080387e32",
+            "description": "With Miami giving Jarvis Landry the franchise tag, the pool of free-agent receivers looks pretty thin.",
+            "publishedAt": "2018-02-23T18:31:08.816Z"
+        },
+        {
+            "url": "https://www.chieftain.com/sports/national/nfl-free-agency-the-actually-most-interesting-veteran-running-backs/article_c1bc27e6-d32d-5ee3-8167-b37645dd04a5.html?src=rss",
+            "title": "NFL Free Agency 2018: The 4 (actually 5) most interesting veteran running backs available",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/85FCkWh07hIpGioZ8aqPbw--~B/aD02MzA7dz04MzE7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/36JihliDllap26ordcpn6g--/dz04MzE7aD02MzA7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_83881a12-4246-3ecf-9b1b-bb7e914ee753-695880678.jpeg",
+            "description": "The free-agent running back market for years has been depressed — and, for the runners themselves, depressing. How bad was it last year? Adrian Peterson, Jamaal Charles and Eddie Lacy, all of whom had a top-10 rushing season in the previous four years, received less than $6.5 million guaranteed as free",
+            "publishedAt": "2018-02-23T18:31:08.817Z"
+        },
+        {
+            "url": "https://sports.yahoo.com/why-kirk-cousins-vikings-makes-152651370.html?src=rss",
+            "title": "Why Kirk Cousins to the Vikings Makes the Most Sense (and Why the Browns Should Steer Clear)",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/SUkljCASamaR07cPw1.vbg--~B/aD01NTc7dz0xMDAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/homerun/sports_illustrated_941/5104b8e39f787920bfb8f0c0bc215059",
+            "description": "Most NFL coaches agree: Kirk Cousins is a system quarterback. A high-level system QB, sure, but a system QB nonetheless. In other words, Cousins is not someone you build around—he’s someone you plug in. His arm is good, not great. Same goes for his athleticism. His pocket mobility and toughness have",
+            "publishedAt": "2018-02-23T18:31:08.817Z"
         }
     ]
 }
