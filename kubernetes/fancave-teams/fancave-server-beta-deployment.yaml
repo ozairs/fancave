@@ -3,15 +3,15 @@ kind: Deployment
 metadata:
   labels:
     app: teams
-    version: v1
-  name: fancave-teams
+    version: beta
+  name: fancave-teams-beta
 spec:
   replicas: 1
   template:
     metadata:
       labels:
         app: teams
-        version: v1
+        version: beta
     spec:
       containers:
       - image: ozairs/fancave-server:v1

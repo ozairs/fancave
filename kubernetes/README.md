@@ -41,11 +41,15 @@ brew update && brew install kubectl
 
 ```
   minikube start \
-	--extra-config=controller-manager.ClusterSigningCertFile="/var/lib/localkube/certs/ca.crt" \
+	--extra-config=controller-manager.ClusterSigningCertFile=".minikube/ca.crt" \
 	--extra-config=controller-manager.ClusterSigningKeyFile="/var/lib/localkube/certs/ca.key" \
 	--extra-config=apiserver.Admission.PluginNames=NamespaceLifecycle,LimitRanger,ServiceAccount,PersistentVolumeLabel,DefaultStorageClass,DefaultTolerationSeconds,MutatingAdmissionWebhook,ValidatingAdmissionWebhook,ResourceQuota \
 	--kubernetes-version=v1.9.0 \
   --vm-driver hyperkit --cpus 8 --memory 10240
+
+  minikube start --memory=8192 --cpus=4 --kubernetes-version=v1.9.4 \
+    --extra-config=apiserver.admission-control="NamespaceLifecycle,LimitRanger,ServiceAccount,PersistentVolumeLabel,DefaultStorageClass,DefaultTolerationSeconds,MutatingAdmissionWebhook,ValidatingAdmissionWebhook,ResourceQuota" \
+    --vm-driver=hyperkit
 eval $(minikube docker-env)
 ```
 
@@ -54,7 +58,7 @@ Build the docker images
 ```
 eval $(minikube docker-env)
 docker pull mongo
-docker build -t ozairs/fancave-server:v1 /Users/ozairs/git/tutorials/megafanz/kubernetes/../.
+docker build -t ozairs/fancave-server:v1 /Users/ozairs/git/tutorials/fancave/.
 ```
 
 **Kubernetes Commands**

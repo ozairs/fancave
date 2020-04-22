@@ -8,7 +8,7 @@
 			"position": "P",
 			"team": "Oklahoma City Thunder",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/1VYivXMoZWdiQTIe__Hnwg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4390.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/oklahoma-city-thunder.svg",
+			"logo": "assets/img/nba/oklahoma-city-thunder.svg",
 			"twitter": "https://twitter.com/search?q=Russell Westbrook"
 		},
 		{
@@ -19,7 +19,7 @@
 			"position": "P",
 			"team": "Golden State Warriors",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/cxHM45vMpUrL9lB4458SkA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4244.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/golden-state-warriors.svg",
+			"logo": "assets/img/nba/golden-state-warriors.svg",
 			"twitter": "https://twitter.com/search?q=Kevin Durant"
 		},
 		{
@@ -30,7 +30,7 @@
 			"position": "P",
 			"team": "Houston Rockets",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/VICtfR15HNNGJdWb41F2qw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4563.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/houston-rockets.svg",
+			"logo": "assets/img/nba/houston-rockets.svg",
 			"twitter": "https://twitter.com/search?q=James Harden"
 		},
 		{
@@ -41,7 +41,7 @@
 			"position": "P",
 			"team": "Golden State Warriors",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/Q7t0yTwkM2w2TZq8RMkR8A--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4612.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/golden-state-warriors.svg",
+			"logo": "assets/img/nba/golden-state-warriors.svg",
 			"twitter": "https://twitter.com/search?q=Stephen Curry"
 		},
 		{
@@ -52,7 +52,7 @@
 			"position": "P",
 			"team": "Milwaukee Bucks",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/l7Ey6lOySrLf_wa0O3wehA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/5185.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/milwaukee-bucks.svg",
+			"logo": "assets/img/nba/milwaukee-bucks.svg",
 			"twitter": "https://twitter.com/search?q=Giannis Antetokounmpo"
 		},
 		{
@@ -63,7 +63,7 @@
 			"position": "P",
 			"team": "Minnesota Timberwolves",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/oe5xO9dSF5XFMCcPuaMSDQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/5432.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/minnesota-timberwolves.svg",
+			"logo": "assets/img/nba/minnesota-timberwolves.svg",
 			"twitter": "https://twitter.com/search?q=Karl-Anthony Towns"
 		},
 		{
@@ -74,7 +74,7 @@
 			"position": "P",
 			"team": "New Orleans Pelicans",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/d2SR8Gqjex54lml7BVbg8Q--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/5007.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/new-orleans-pelicans.svg",
+			"logo": "assets/img/nba/new-orleans-pelicans.svg",
 			"twitter": "https://twitter.com/search?q=Anthony Davis"
 		},
 		{
@@ -85,7 +85,7 @@
 			"position": "P",
 			"team": "San Antonio Spurs",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/f9uvWdQQutu5gYvJ52qbtw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4896.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/san-antonio-spurs.svg",
+			"logo": "assets/img/nba/san-antonio-spurs.svg",
 			"twitter": "https://twitter.com/search?q=Kawhi Leonard"
 		},
 		{
@@ -96,7 +96,7 @@
 			"position": "P",
 			"team": "Cleveland Cavaliers",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/rD_RpQTPWFmRjZtXS6vU2A--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/3704.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/cleveland-cavaliers.svg",
+			"logo": "assets/img/nba/cleveland-cavaliers.svg",
 			"twitter": "https://twitter.com/search?q=LeBron James"
 		},
 		{
@@ -107,7 +107,7 @@
 			"position": "P",
 			"team": "Denver Nuggets",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/k20XWKsvTIFBlnLggcOPUw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/5352.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/denver-nuggets.svg",
+			"logo": "assets/img/nba/denver-nuggets.svg",
 			"twitter": "https://twitter.com/search?q=Nikola Jokic"
 		},
 		{
@@ -118,7 +118,7 @@
 			"position": "P",
 			"team": "Washington Wizards",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/BvQqZghJju6UIjh5sTIFtQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4716.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/washington-wizards.svg",
+			"logo": "assets/img/nba/washington-wizards.svg",
 			"twitter": "https://twitter.com/search?q=John Wall"
 		},
 		{
@@ -129,7 +129,7 @@
 			"position": "P",
 			"team": "Houston Rockets",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/Wq.E.3.Z9cwBnRaO2KS6TA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/3930.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/houston-rockets.svg",
+			"logo": "assets/img/nba/houston-rockets.svg",
 			"twitter": "https://twitter.com/search?q=Chris Paul"
 		},
 		{
@@ -140,7 +140,7 @@
 			"position": "P",
 			"team": "Boston Celtics",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/pfjtURV3r7Gn1PqjhC28vA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4840.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/boston-celtics.svg",
+			"logo": "assets/img/nba/boston-celtics.svg",
 			"twitter": "https://twitter.com/search?q=Kyrie Irving"
 		},
 		{
@@ -151,7 +151,7 @@
 			"position": "P",
 			"team": "New Orleans Pelicans",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/LaBmmgPVXmmLUCckXvV2tg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4720.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/new-orleans-pelicans.svg",
+			"logo": "assets/img/nba/new-orleans-pelicans.svg",
 			"twitter": "https://twitter.com/search?q=DeMarcus Cousins"
 		},
 		{
@@ -162,7 +162,7 @@
 			"position": "P",
 			"team": "Utah Jazz",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/7tvFpmCmSeh2vqpLhm6qNA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/5197.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/utah-jazz.svg",
+			"logo": "assets/img/nba/utah-jazz.svg",
 			"twitter": "https://twitter.com/search?q=Rudy Gobert"
 		},
 		{
@@ -173,7 +173,7 @@
 			"position": "P",
 			"team": "Oklahoma City Thunder",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/CJYk4rryfsFrs6FoHvSyKg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4725.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/oklahoma-city-thunder.svg",
+			"logo": "assets/img/nba/oklahoma-city-thunder.svg",
 			"twitter": "https://twitter.com/search?q=Paul George"
 		},
 		{
@@ -184,7 +184,7 @@
 			"position": "P",
 			"team": "Minnesota Timberwolves",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/7WnKPaaUvculgrt5gd0HBQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4912.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/minnesota-timberwolves.svg",
+			"logo": "assets/img/nba/minnesota-timberwolves.svg",
 			"twitter": "https://twitter.com/search?q=Jimmy Butler"
 		},
 		{
@@ -195,7 +195,7 @@
 			"position": "P",
 			"team": "Portland Trail Blazers",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/5hd_yDdBYKV38P97n4O0UQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/5012.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/portland-trail-blazers.svg",
+			"logo": "assets/img/nba/portland-trail-blazers.svg",
 			"twitter": "https://twitter.com/search?q=Damian Lillard"
 		},
 		{
@@ -206,7 +206,7 @@
 			"position": "P",
 			"team": "Miami Heat",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/yUu11MBGB2kSfx9ByV2t_w--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4764.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/miami-heat.svg",
+			"logo": "assets/img/nba/miami-heat.svg",
 			"twitter": "https://twitter.com/search?q=Hassan Whiteside"
 		},
 		{
@@ -217,7 +217,7 @@
 			"position": "P",
 			"team": "Golden State Warriors",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/1eC2Md1LuUBCbLQXbbMSrQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/5069.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/golden-state-warriors.svg",
+			"logo": "assets/img/nba/golden-state-warriors.svg",
 			"twitter": "https://twitter.com/search?q=Draymond Green"
 		},
 		{
@@ -228,7 +228,7 @@
 			"position": "P",
 			"team": "New York Knicks",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/_VgOCYOjCAzas_jG2.R3Vg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/5464.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/new-york-knicks.svg",
+			"logo": "assets/img/nba/new-york-knicks.svg",
 			"twitter": "https://twitter.com/search?q=Kristaps Porzingis"
 		},
 		{
@@ -239,7 +239,7 @@
 			"position": "P",
 			"team": "Charlotte Hornets",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/JqxE6yH5rl0ff_7zdaTy_Q--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4890.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/charlotte-hornets.svg",
+			"logo": "assets/img/nba/charlotte-hornets.svg",
 			"twitter": "https://twitter.com/search?q=Kemba Walker"
 		},
 		{
@@ -250,7 +250,7 @@
 			"position": "P",
 			"team": "Toronto Raptors",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/VG9Tc3n5WbmgwgfBPwiB1A--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4152.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/toronto-raptors.svg",
+			"logo": "assets/img/nba/toronto-raptors.svg",
 			"twitter": "https://twitter.com/search?q=Kyle Lowry"
 		},
 		{
@@ -261,7 +261,7 @@
 			"position": "P",
 			"team": "Memphis Grizzlies",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/ha7qLIZdKjDTo5Ag3InAqw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4246.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/memphis-grizzlies.svg",
+			"logo": "assets/img/nba/memphis-grizzlies.svg",
 			"twitter": "https://twitter.com/search?q=Mike Conley"
 		},
 		{
@@ -272,7 +272,7 @@
 			"position": "P",
 			"team": "Boston Celtics",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/RuOo7w4C7siM95SV.6uKbg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4724.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nba/boston-celtics.svg",
+			"logo": "assets/img/nba/boston-celtics.svg",
 			"twitter": "https://twitter.com/search?q=Gordon Hayward"
 		}
 	],
@@ -286,7 +286,7 @@
 			"position": "C",
 			"team": "Edmonton Oilers",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/wrRWgUg3NVYajxDjPWP9Qg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/6743.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/edmonton-oilers.svg",
+			"logo": "assets/img/nhl/edmonton-oilers.svg",
 			"twitter": "search?q=Connor McDavid"
 		},
 		{
@@ -297,7 +297,7 @@
 			"position": "C",
 			"team": "Pittsburgh Penguins",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/_aq21upUFF6on2eSeyYhEg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/3737.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/pittsburgh-penguins.svg",
+			"logo": "assets/img/nhl/pittsburgh-penguins.svg",
 			"twitter": "search?q=Sidney Crosby"
 		},
 		{
@@ -308,7 +308,7 @@
 			"position": "RW",
 			"team": "Chicago Blackhawks",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/vGhQopEbvmTfQucgIbe8IA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/4240.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/chicago-blackhawks.svg",
+			"logo": "assets/img/nhl/chicago-blackhawks.svg",
 			"twitter": "search?q=Patrick Kane"
 		},
 		{
@@ -319,7 +319,7 @@
 			"position": "C",
 			"team": "Toronto Maple Leafs",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/xEu39AViZL2R0zUQSEajIw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/7109.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/toronto-maple-leafs.svg",
+			"logo": "assets/img/nhl/toronto-maple-leafs.svg",
 			"twitter": "search?q=Auston Matthews"
 		},
 		{
@@ -330,7 +330,7 @@
 			"position": "G",
 			"team": "Montreal Canadiens",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/cKleM2OX7HsP88iuLDK.dA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/3782.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/montreal-canadiens.svg",
+			"logo": "assets/img/nhl/montreal-canadiens.svg",
 			"twitter": "search?q=Carey Price"
 		},
 		{
@@ -341,7 +341,7 @@
 			"position": "D",
 			"team": "San Jose Sharks",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/eNgLqQ5T8XwqLk9mKO1uvw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/3358.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/san-jose-sharks.svg",
+			"logo": "assets/img/nhl/san-jose-sharks.svg",
 			"twitter": "search?q=Brent Burns"
 		},
 		{
@@ -352,7 +352,7 @@
 			"position": "RW",
 			"team": "St Louis Blues",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/Wj4C8fpJaJBzNCxW2l8Obw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/4976.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/st-louis-blues.svg",
+			"logo": "assets/img/nhl/st-louis-blues.svg",
 			"twitter": "search?q=Vladimir Tarasenko"
 		},
 		{
@@ -363,7 +363,7 @@
 			"position": "LW",
 			"team": "Washington Capitals",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/Z8Gj_hRhiyOfEx47a3NSjg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/3637.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/washington-capitals.svg",
+			"logo": "assets/img/nhl/washington-capitals.svg",
 			"twitter": "search?q=Alex Ovechkin"
 		},
 		{
@@ -374,7 +374,7 @@
 			"position": "RW",
 			"team": "Tampa Bay Lightning",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/jOBp4MdbQ6KTh4MNErezbg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/5425.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/tampa-bay-lightning.svg",
+			"logo": "assets/img/nhl/tampa-bay-lightning.svg",
 			"twitter": "search?q=Nikita Kucherov"
 		},
 		{
@@ -385,7 +385,7 @@
 			"position": "C",
 			"team": "Pittsburgh Penguins",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/CwPEnlaXwBmMqG7ouLpC.g--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/3638.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/pittsburgh-penguins.svg",
+			"logo": "assets/img/nhl/pittsburgh-penguins.svg",
 			"twitter": "search?q=Evgeni Malkin"
 		},
 		{
@@ -396,7 +396,7 @@
 			"position": "C",
 			"team": "Buffalo Sabres",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/ZE5atu.dQRMd7R37GEd.ag--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/6744.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/buffalo-sabres.svg",
+			"logo": "assets/img/nhl/buffalo-sabres.svg",
 			"twitter": "search?q=Jack Eichel"
 		},
 		{
@@ -407,7 +407,7 @@
 			"position": "LW",
 			"team": "Dallas Stars",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/g3pP7qib9r6mWbWj784KzA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/4519.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/dallas-stars.svg",
+			"logo": "assets/img/nhl/dallas-stars.svg",
 			"twitter": "search?q=Jamie Benn"
 		},
 		{
@@ -418,7 +418,7 @@
 			"position": "RW",
 			"team": "Winnipeg Jets",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/3mLS0B_7PZhU9YE0EJLldQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/7110.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/winnipeg-jets.svg",
+			"logo": "assets/img/nhl/winnipeg-jets.svg",
 			"twitter": "search?q=Patrik Laine"
 		},
 		{
@@ -429,7 +429,7 @@
 			"position": "LW",
 			"team": "Boston Bruins",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/rtOVzK5W94SBdbNW5R6GqQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/4351.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/boston-bruins.svg",
+			"logo": "assets/img/nhl/boston-bruins.svg",
 			"twitter": "search?q=Brad Marchand"
 		},
 		{
@@ -440,7 +440,7 @@
 			"position": "G",
 			"team": "Washington Capitals",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/7NfNxU86sCsvsm.Gl3NKAg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/4588.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/washington-capitals.svg",
+			"logo": "assets/img/nhl/washington-capitals.svg",
 			"twitter": "search?q=Braden Holtby"
 		},
 		{
@@ -451,7 +451,7 @@
 			"position": "C,RW",
 			"team": "Edmonton Oilers",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/_iHL7yVuGD764MgGIsab7w--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/6369.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/edmonton-oilers.svg",
+			"logo": "assets/img/nhl/edmonton-oilers.svg",
 			"twitter": "search?q=Leon Draisaitl"
 		},
 		{
@@ -461,7 +461,7 @@
 			"league": "nhl",
 			"team": "Ottawa Senators",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/MB0ZkX3Gc_We3x4YIn46UA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/4491.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/ottawa-senators.svg",
+			"logo": "assets/img/nhl/ottawa-senators.svg",
 			"twitter": "search?q=Erik Karlsson"
 		},
 		{
@@ -472,7 +472,7 @@
 			"position": "D",
 			"team": "Tampa Bay Lightning",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/qmn8VUnOPaD11GoJfqktyg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/4682.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/tampa-bay-lightning.svg",
+			"logo": "assets/img/nhl/tampa-bay-lightning.svg",
 			"twitter": "search?q=Victor Hedman"
 		},
 		{
@@ -483,7 +483,7 @@
 			"position": "C",
 			"team": "Washington Capitals",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/ZJYmPWlvuKdcfqkOvIBHeg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/3982.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/washington-capitals.svg",
+			"logo": "assets/img/nhl/washington-capitals.svg",
 			"twitter": "search?q=Nicklas Backstrom"
 		},
 		{
@@ -494,7 +494,7 @@
 			"position": "C",
 			"team": "Winnipeg Jets",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/hmn0GmXC6vgTOR1tl3yq_g--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/5368.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/winnipeg-jets.svg",
+			"logo": "assets/img/nhl/winnipeg-jets.svg",
 			"twitter": "search?q=Mark Scheifele"
 		},
 		{
@@ -505,7 +505,7 @@
 			"position": "C",
 			"team": "New York Islanders",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/jAxfrhkF8H6ek3XpFDlnPA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/4681.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/new-york-islanders.svg",
+			"logo": "assets/img/nhl/new-york-islanders.svg",
 			"twitter": "search?q=John Tavares"
 		},
 		{
@@ -516,7 +516,7 @@
 			"position": "G",
 			"team": "Pittsburgh Penguins",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/XepstVSi4Hoggug_pGvngA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/5774.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/pittsburgh-penguins.svg",
+			"logo": "assets/img/nhl/pittsburgh-penguins.svg",
 			"twitter": "search?q=Matt Murray"
 		},
 		{
@@ -527,7 +527,7 @@
 			"position": "D",
 			"team": "Winnipeg Jets",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/T.Bg6AUxNIQZOLqnrJvYQw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/3705.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/winnipeg-jets.svg",
+			"logo": "assets/img/nhl/winnipeg-jets.svg",
 			"twitter": "search?q=Dustin Byfuglien"
 		},
 		{
@@ -538,7 +538,7 @@
 			"position": "C,RW",
 			"team": "Dallas Stars",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/7NEDvKlqbVUOKA.gFsw7fQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/4962.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/dallas-stars.svg",
+			"logo": "assets/img/nhl/dallas-stars.svg",
 			"twitter": "search?q=Tyler Seguin"
 		},
 		{
@@ -549,7 +549,7 @@
 			"position": "G",
 			"team": "Columbus Blue Jackets",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/z5Gy02o639WU3ao6CK7a7Q--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/nhl_cutout/players_l/20170209/4901.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/nhl/columbus-blue-jackets.svg",
+			"logo": "assets/img/nhl/columbus-blue-jackets.svg",
 			"twitter": "search?q=Sergei Bobrovsky"
 		}
 	],
@@ -563,7 +563,7 @@
 			"position": "OF",
 			"team": "Los Angeles Angels of Anaheim",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/t3KoQ1KW4vKk5zl.klZsDQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/8861.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/los-angeles-angels-of-anaheim.svg",
+			"logo": "assets/img/mlb/los-angeles-angels-of-anaheim.svg",
 			"twitter": "search?q=Mike Trout"
 		},
 		{
@@ -573,7 +573,7 @@
 			"league": "mlb",
 			"team": "Boston Red Sox",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/qHgOtww0zGBqHfib3HPdlg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/9552.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/boston-red-sox.svg",
+			"logo": "assets/img/mlb/boston-red-sox.svg",
 			"twitter": "search?q=Mookie Betts"
 		},
 		{
@@ -584,7 +584,7 @@
 			"position": "SP",
 			"team": "Los Angeles Dodgers",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/eJW7_C.hfu4LBRwK6u48Aw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/8180.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/los-angeles-dodgers.svg",
+			"logo": "assets/img/mlb/los-angeles-dodgers.svg",
 			"twitter": "search?q=Clayton Kershaw"
 		},
 		{
@@ -595,7 +595,7 @@
 			"position": "1B,3B,OF",
 			"team": "Chicago Cubs",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/QM3Qr7RMFCna2OpGzXPPag--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/9558.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/chicago-cubs.svg",
+			"logo": "assets/img/mlb/chicago-cubs.svg",
 			"twitter": "search?q=Kris Bryant"
 		},
 		{
@@ -606,7 +606,7 @@
 			"position": "2B",
 			"team": "Houston Astros",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/z52urQGwuyYdg46It_ofFQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/8996.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/houston-astros.svg",
+			"logo": "assets/img/mlb/houston-astros.svg",
 			"twitter": "search?q=José Altuve"
 		},
 		{
@@ -617,7 +617,7 @@
 			"position": "3B",
 			"team": "Colorado Rockies",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/mJ.usuBBUWxQ_Uu8Vj9gTA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/9105.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/colorado-rockies.svg",
+			"logo": "assets/img/mlb/colorado-rockies.svg",
 			"twitter": "search?q=Nolan Arenado"
 		},
 		{
@@ -628,7 +628,7 @@
 			"position": "1B",
 			"team": "Arizona Diamondbacks",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/25uKYOGxHgLjd8zkLu8irQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/8967.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/arizona-diamondbacks.svg",
+			"logo": "assets/img/mlb/arizona-diamondbacks.svg",
 			"twitter": "search?q=Paul Goldschmidt"
 		},
 		{
@@ -639,7 +639,7 @@
 			"position": "3B,SS",
 			"team": "Baltimore Orioles",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/dQywmD7vkP.UjY2TkkBvVw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/9111.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/baltimore-orioles.svg",
+			"logo": "assets/img/mlb/baltimore-orioles.svg",
 			"twitter": "search?q=Manny Machado"
 		},
 		{
@@ -650,7 +650,7 @@
 			"position": "OF",
 			"team": "Washington Nationals",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/kElRsOLuD_nHuMZ_LaC53g--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/8875.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/washington-nationals.svg",
+			"logo": "assets/img/mlb/washington-nationals.svg",
 			"twitter": "search?q=Bryce Harper"
 		},
 		{
@@ -661,7 +661,7 @@
 			"position": "3B",
 			"team": "Toronto Blue Jays",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/1T7ysQbENzib7uXgj38B6w--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/8723.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/toronto-blue-jays.svg",
+			"logo": "assets/img/mlb/toronto-blue-jays.svg",
 			"twitter": "search?q=Josh Donaldson"
 		},
 		{
@@ -672,7 +672,7 @@
 			"position": "1B,2B",
 			"team": "Chicago Cubs",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/AjuQxQWnCcbaPw6ukgdpxg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/8868.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/chicago-cubs.svg",
+			"logo": "assets/img/mlb/chicago-cubs.svg",
 			"twitter": "search?q=Anthony Rizzo"
 		},
 		{
@@ -683,7 +683,7 @@
 			"position": "OF",
 			"team": "Colorado Rockies",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/keMo2dHU_1Vi_aDsdtxEWQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/8957.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/colorado-rockies.svg",
+			"logo": "assets/img/mlb/colorado-rockies.svg",
 			"twitter": "search?q=Charlie Blackmon"
 		},
 		{
@@ -693,7 +693,7 @@
 			"league": "mlb",
 			"team": "Detroit Tigers",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/6BJSsTkG_FLEu9o2h8_08A--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/7163.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/detroit-tigers.svg",
+			"logo": "assets/img/mlb/detroit-tigers.svg",
 			"twitter": "search?q=Miguel Cabrera"
 		},
 		{
@@ -704,7 +704,7 @@
 			"position": "SP",
 			"team": "New York Mets",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/0B.rtdcCuQ89HwuqN3NDYg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/9597.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/new-york-mets.svg",
+			"logo": "assets/img/mlb/new-york-mets.svg",
 			"twitter": "search?q=Noah Syndergaard"
 		},
 		{
@@ -715,7 +715,7 @@
 			"position": "2B,SS,OF",
 			"team": "Washington Nationals",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/Ei7LsddkOCK8k4p_._p4sA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/10056.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/washington-nationals.svg",
+			"logo": "assets/img/mlb/washington-nationals.svg",
 			"twitter": "search?q=Trea Turner"
 		},
 		{
@@ -725,7 +725,7 @@
 			"league": "mlb",
 			"team": "San Francisco Giants",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/foLSxighsvZMLiANgrJucw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/8590.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/san-francisco-giants.svg",
+			"logo": "assets/img/mlb/san-francisco-giants.svg",
 			"twitter": "search?q=Madison Bumgarner"
 		},
 		{
@@ -736,7 +736,7 @@
 			"position": "SS",
 			"team": "Los Angeles Dodgers",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/OM5N47PgScTWGEt8Mowj4g--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/9584.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/los-angeles-dodgers.svg",
+			"logo": "assets/img/mlb/los-angeles-dodgers.svg",
 			"twitter": "search?q=Corey Seager"
 		},
 		{
@@ -747,7 +747,7 @@
 			"position": "SS",
 			"team": "Houston Astros",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/fvSx.aKP4RIirQWEXlOQVg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/9573.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/houston-astros.svg",
+			"logo": "assets/img/mlb/houston-astros.svg",
 			"twitter": "search?q=Carlos Correa"
 		},
 		{
@@ -757,7 +757,7 @@
 			"league": "mlb",
 			"team": "Washington Nationals",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/g07sA9Y8LxL5r.3kFf0QEQ--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/8193.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/washington-nationals.svg",
+			"logo": "assets/img/mlb/washington-nationals.svg",
 			"twitter": "search?q=Max Scherzer"
 		},
 		{
@@ -768,7 +768,7 @@
 			"position": "SS",
 			"team": "Boston Red Sox",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/ixjDp03V4SAWtWliv2gzyw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/9319.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/boston-red-sox.svg",
+			"logo": "assets/img/mlb/boston-red-sox.svg",
 			"twitter": "search?q=Xander Bogaerts"
 		},
 		{
@@ -779,7 +779,7 @@
 			"position": "1B",
 			"team": "Cincinnati Reds",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/ndZSqJX12Oy_ufN0uJTBcg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/7946.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/cincinnati-reds.svg",
+			"logo": "assets/img/mlb/cincinnati-reds.svg",
 			"twitter": "search?q=Joey Votto"
 		},
 		{
@@ -790,7 +790,7 @@
 			"position": "SS",
 			"team": "Cleveland Indians",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/gBvAtcE27likWhI3zQBrCw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/9116.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/cleveland-indians.svg",
+			"logo": "assets/img/mlb/cleveland-indians.svg",
 			"twitter": "search?q=Francisco Lindor"
 		},
 		{
@@ -801,7 +801,7 @@
 			"position": "OF",
 			"team": "Pittsburgh Pirates",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/cW1FnuLKUhtRuX4kycY0Jw--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/9118.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/pittsburgh-pirates.svg",
+			"logo": "assets/img/mlb/pittsburgh-pirates.svg",
 			"twitter": "search?q=Starling Marte"
 		},
 		{
@@ -812,7 +812,7 @@
 			"position": "OF",
 			"team": "Milwaukee Brewers",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/K4.jcv21zai8bBT6_uybsg--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04242017/8034.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/milwaukee-brewers.svg",
+			"logo": "assets/img/mlb/milwaukee-brewers.svg",
 			"twitter": "search?q=Ryan Braun"
 		},
 		{
@@ -823,7 +823,7 @@
 			"position": "SP",
 			"team": "Boston Red Sox",
 			"picture": "https://s.yimg.com/iu/api/res/1.2/mGqXsx5XaFVOGmS34Q_0WA--~B/YXBwaWQ9c2hhcmVkO2NoPTIzMzY7Y3I9MTtjdz0xNzkwO2R4PTg1NztkeT0wO2ZpPXVsY3JvcDtoPTYwO3E9MTAwO3c9NDY-/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/20170403/8780.png",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/mlb/boston-red-sox.svg",
+			"logo": "assets/img/mlb/boston-red-sox.svg",
 			"twitter": "search?q=Chris Sale"
 		}
 	],

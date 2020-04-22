@@ -50,7 +50,7 @@ module.exports = function (app) {
 		}
 		//use in-memory datasource
 		else {
-			console.log("Using local files.")
+			console.log("Using local player repository.")
 		}
 		console.log('>> createModels')
 	}

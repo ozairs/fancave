@@ -1,6 +1,7 @@
 'use strict';
 
 const cheerio = require('cheerio'); //used for parsing HTML web pages
+var convert = require('xml-js');
 
 /**
  * set of functions to retrieve news feed from a news provider. 
@@ -15,58 +16,20 @@ module.exports = function (News) {
 		console.log('<< getNews');
 		let data = [];
 		//request to obtain a set of news articles for a given league using a previously obtained access token
-		News.app.dataSources.sportsDS.getNews(league, global.access_token, function (err, response) {
-			//error calling news provider service
+		News.app.dataSources.sportsDS.getNews(league, function (err, response) {
 			if (err) {
-				//access token expired - use refresh token to obtain a new access token
-				if (err.message) {
-					News.app.dataSources.sportsDS.getToken(function (err, response) {
-						//unable to obtain a new access token with a refresh token, so return local data
-						if (err) {
-							console.log("Unable to call news service with error %s", err.message);
-							//return static data unable when news service is unavailable
-							console.log("returning data file file");
-							var data = require('../../server/sample-data/news.json')[league];
-							if (!data) data = [];
-							return callback(null, data);
-						}
-						//save the access and refresh token
-						global.access_token = JSON.parse(response).access_token;
-						global.refresh_token = JSON.parse(response).refresh_token;
-						// console.log("ys access token " + global.access_token);
-						// console.log("ys refresh token " + global.refresh_token);
-						
-						//re-request the set of news articles using the previously obtained access token
-						News.app.dataSources.sportsDS.getNews(league, global.access_token, function (err, response) {
-							//error occured calling news provider with new access token so return local data
-							if (err) {
-								console.log("Unable to call news service with error %s", err.message);
-								//return static data unable when news service is unavailable
-								console.log("returning data file file");
-								var data = require('../../server/sample-data/news.json')[league];
-								if (!data) data = [];
-								return callback(null, data);
-							}
-							//format the news articles for the response
-							data = News.parseNews(response);
-							if (!data) data = [];
-							callback(null, data);
-						});
-						
-					});
-				}
-				//error calling news provider service so return local data
-				else {
-					console.log("Unable to call news service with error %s", err.message);
-					//return static data unable when news service is unavailable
-					var data = require('../../server/sample-data/news.json')[league];
-					if (!data) data = [];
-					return callback(null, data);
-				}
+				//error calling news provider service
+				console.log("Unable to call news service with error %s", err.message);
+				//return static data unable when news service is unavailable
+				var data = require('../../server/sample-data/news.json')[league];
+				if (!data) data = [];
+				return callback(null, data);
 			}
 			//successfully called news provider service
 			else {
-				data = News.parseNews(response);
+				//convert xml to json
+				var responseJSON = JSON.parse(convert.xml2json(response, {compact: true, spaces: 4}));
+				data = News.parseNews(responseJSON);
 				if (!data) data = [];
 				callback(null, data);
 			}
@@ -83,23 +46,23 @@ module.exports = function (News) {
 		let data = [];
 		let filterLinks = 'www.thestar.com'; //excludes sites for news articles
 		//check response from REST call
-		if (response.query.count > 0) {
+		if (response.rss) {
 			console.log("Successfully obtained news feed.");
 
 			//loop through the articles
-			response.query.results.item.forEach(function (newsItem) {
+			response.rss.channel.item.forEach(function (newsItem) {
 				//don't include articles in the excluded list
-				if (newsItem.link.toLowerCase().indexOf(filterLinks) < 0) {
+				if (newsItem.link._text.toLowerCase().indexOf(filterLinks) < 0) {
 					//parse the image
-					const $ = cheerio.load(newsItem.encoded);
+					const $ = cheerio.load(newsItem['content:encoded']._cdata);
 					var image = $('img').attr('src');
 					//build the article 
 					var article = {
-						'url': newsItem.link,
-						'title': newsItem.title,
+						'url': newsItem.link._text,
+						'title': newsItem.title._text,
 						'urlToImage': image,
-						'description': newsItem.description,
-						'publishedAt': new Date()
+						'description': newsItem.description._text,
+						'publishedAt': newsItem.pubDate._text
 					}
 					data.push(article);
 				}

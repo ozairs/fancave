@@ -83,8 +83,8 @@ module.exports = function (Player) {
 					}
 					//error calling sports provider service so return local data
 					else {
-						console.log("Unable to call players service with error %s", err.message.error.description);
-						//return static data unable when news service is unavailable
+						console.log("Unable to call players service with error %s", err);
+						//return static data when players service is unavailable
 						console.log("returning data file");
 						var data = require('../../server/sample-data/players.json')[league];
 						if (!data) data = [];

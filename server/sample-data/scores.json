@@ -3,80 +3,80 @@
 		{
 			"away": "Atlanta",
 			"awayScore": "87",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/atlanta",
+			"awayLogo": "assets/img/nba/atlanta",
 			"home": "Detroit",
 			"homeScore": "109",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/detroit",
+			"homeLogo": "assets/img/nba/detroit",
 			"status": "Final",
 			"url": "http://sports.yahoo.com/nba/atlanta-hawks-detroit-pistons-2017100608/"
 		},
 		{
 			"away": "Boston",
 			"awayScore": "110",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/boston",
+			"awayLogo": "assets/img/nba/boston",
 			"home": "Philadelphia",
 			"homeScore": "102",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/philadelphia",
+			"homeLogo": "assets/img/nba/philadelphia",
 			"status": "Final",
 			"url": "http://sports.yahoo.com/nba/boston-celtics-philadelphia-76ers-2017100620/"
 		},
 		{
 			"away": "NY Knicks",
 			"awayScore": "100",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/",
+			"awayLogo": "assets/img/nba/",
 			"home": "Washington",
 			"homeScore": "104",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/washington",
+			"homeLogo": "assets/img/nba/washington",
 			"status": "Final",
 			"url": "http://sports.yahoo.com/nba/new-york-knicks-washington-wizards-2017100627/"
 		},
 		{
 			"away": "Indiana",
 			"awayScore": "106",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/indiana",
+			"awayLogo": "assets/img/nba/indiana",
 			"home": "Cleveland",
 			"homeScore": "102",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/cleveland",
+			"homeLogo": "assets/img/nba/cleveland",
 			"status": "Final",
 			"url": "http://sports.yahoo.com/nba/indiana-pacers-cleveland-cavaliers-2017100605/"
 		},
 		{
 			"away": "Milwaukee",
 			"awayScore": "101",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/milwaukee",
+			"awayLogo": "assets/img/nba/milwaukee",
 			"home": "Chicago",
 			"homeScore": "114",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/chicago",
+			"homeLogo": "assets/img/nba/chicago",
 			"status": "Final",
 			"url": "http://sports.yahoo.com/nba/milwaukee-bucks-chicago-bulls-2017100604/"
 		},
 		{
 			"away": "New Orleans",
 			"awayScore": "91",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/new orleans",
+			"awayLogo": "assets/img/nba/new orleans",
 			"home": "Oklahoma City",
 			"homeScore": "102",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/oklahoma city",
+			"homeLogo": "assets/img/nba/oklahoma city",
 			"status": "Final",
 			"url": "http://sports.yahoo.com/nba/new-orleans-pelicans-oklahoma-city-thunder-2017100625/"
 		},
 		{
 			"away": "Sacramento",
 			"awayScore": "61",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/sacramento",
+			"awayLogo": "assets/img/nba/sacramento",
 			"home": "San Antonio",
 			"homeScore": "60",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/san antonio",
+			"homeLogo": "assets/img/nba/san antonio",
 			"status": "7:02 3rd",
 			"url": "http://sports.yahoo.com/nba/sacramento-kings-san-antonio-spurs-2017100624/"
 		},
 		{
 			"away": "Phoenix",
 			"awayScore": "101",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/phoenix",
+			"awayLogo": "assets/img/nba/phoenix",
 			"home": "Utah",
 			"homeScore": "112",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/nba/utah",
+			"homeLogo": "assets/img/nba/utah",
 			"status": "Final",
 			"url": "http://sports.yahoo.com/nba/phoenix-suns-utah-jazz-2017100626/"
 		}
@@ -86,30 +86,30 @@
 		{
 			"away": "NY Islanders",
 			"awayScore": "0",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/nhl/",
+			"awayLogo": "assets/img/nhl/",
 			"home": "Columbus",
 			"homeScore": "5",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/nhl/columbus",
+			"homeLogo": "assets/img/nhl/columbus",
 			"status": "Final",
 			"url": "http://sports.yahoo.com/nhl/new-york-islanders-columbus-blue-jackets-2017100629/"
 		},
 		{
 			"away": "Florida",
 			"awayScore": "3",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/nhl/florida",
+			"awayLogo": "assets/img/nhl/florida",
 			"home": "Tampa Bay",
 			"homeScore": "5",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/nhl/tampa bay",
+			"homeLogo": "assets/img/nhl/tampa bay",
 			"status": "Final",
 			"url": "http://sports.yahoo.com/nhl/florida-panthers-tampa-bay-lightning-2017100620/"
 		},
 		{
 			"away": "Vegas",
 			"awayScore": "2",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/nhl/vegas",
+			"awayLogo": "assets/img/nhl/vegas",
 			"home": "Dallas",
 			"homeScore": "1",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/nhl/dallas",
+			"homeLogo": "assets/img/nhl/dallas",
 			"status": "Final",
 			"url": "http://sports.yahoo.com/nhl/vegas-golden-knights-dallas-stars-2017100609/"
 		}
@@ -118,40 +118,40 @@
 		{
 			"away": "Boston",
 			"awayScore": "2",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/mlb/boston",
+			"awayLogo": "assets/img/mlb/boston",
 			"home": "Houston",
 			"homeScore": "8",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/mlb/houston",
+			"homeLogo": "assets/img/mlb/houston",
 			"status": "Final",
 			"url": "http://sports.yahoo.com/mlb/boston-red-sox-houston-astros-371006118/"
 		},
 		{
 			"away": "NY Yankees",
 			"awayScore": "8",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/mlb/ny yankees",
+			"awayLogo": "assets/img/mlb/ny yankees",
 			"home": "Cleveland",
 			"homeScore": "9",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/mlb/cleveland",
+			"homeLogo": "assets/img/mlb/cleveland",
 			"status": "Final 13",
 			"url": "http://sports.yahoo.com/mlb/new-york-yankees-cleveland-indians-371006105/"
 		},
 		{
 			"away": "Cubs",
 			"awayScore": "3",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/mlb/",
+			"awayLogo": "assets/img/mlb/",
 			"home": "Washington",
 			"homeScore": "0",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/mlb/washington",
+			"homeLogo": "assets/img/mlb/washington",
 			"status": "Final",
 			"url": "http://sports.yahoo.com/mlb/chicago-cubs-washington-nationals-371006120/"
 		},
 		{
 			"away": "Arizona",
 			"awayScore": "1",
-			"awayLogo": "http://jim-nielsen.com/teamcolors/static/img/mlb/arizona",
+			"awayLogo": "assets/img/mlb/arizona",
 			"home": "LA Dodgers",
 			"homeScore": "5",
-			"homeLogo": "http://jim-nielsen.com/teamcolors/static/img/mlb/la dodgers",
+			"homeLogo": "assets/img/mlb/la dodgers",
 			"status": "Bot 4",
 			"url": "http://sports.yahoo.com/mlb/arizona-diamondbacks-los-angeles-dodgers-371006119/"
 		}

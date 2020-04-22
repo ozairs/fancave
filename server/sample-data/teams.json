@@ -313,7 +313,7 @@
 		"metadata": {
 			"name": "National Hockey League",
 			"shortname": "nhl",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/",
+			"logo": "assets/img/",
 			"homepage": "http://www.nhl.com/"
 		},
 		"teams": [
@@ -633,7 +633,7 @@
 		"metadata": {
 			"name": "Major League Baseball",
 			"shortname": "mlb",
-			"logo": "http://jim-nielsen.com/teamcolors/static/img/",
+			"logo": "assets/img/",
 			"homepage": "http://www.mlb.com/"
 		},
 		"teams": [
