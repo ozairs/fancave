@@ -3,7 +3,7 @@
 ## Docker
 
 **Docker Standalone**
-
+```
 docker stop fancave-client
 docker rm fancave-client
 docker rmi ozairs/fancave-client:v1
@@ -19,7 +19,7 @@ docker run -dit --name fancave-server -p 3080:3080 --link fancave-db:fancave-db 
 docker stop fancave-db
 docker rm fancave-db
 docker run -dit --name fancave-db mongo:latest
-
+```
 ## Kubernetes
 
 **Minikube Quick Start**
